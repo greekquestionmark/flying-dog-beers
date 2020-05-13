@@ -1,0 +1,431 @@
+ip_address,Country,City,Region_x,lat,lon,zip,index,postal num,county_name,city,state_name,State,State Code,Region_y,Division,member_id,name,member_posts,msg_count_total,joined
+68.37.21.125,United States,Allen Park,Michigan,42.2575,-83.211,48101,48101,1,Wayne,Allen Park,Michigan,Michigan,MI,Midwest,East North Central,2,PhalNat,1262,52,1315842750
+192.101.250.250,United States,Alma,Michigan,43.3789,-84.6597,48801,48801,2,Gratiot,Alma,Michigan,Michigan,MI,Midwest,East North Central,68,Iron Will,680,4,1320298412
+50.36.74.123,United States,Alma,Michigan,43.3789,-84.6597,48801,48801,2,Gratiot,Alma,Michigan,Michigan,MI,Midwest,East North Central,6554,GenericDrone,5,1,1385435123
+172.56.11.222,United States,Detroit,Michigan,42.3314,-83.0457,48226,48226,4,Wayne,Detroit,Michigan,Michigan,MI,Midwest,East North Central,7744,NSAVPRESIDENT,13,2,1400645938
+68.49.247.84,United States,Detroit,Michigan,42.3314,-83.0457,48226,48226,4,Wayne,Detroit,Michigan,Michigan,MI,Midwest,East North Central,7816,kllш,884,30,1402728724
+172.56.10.235,United States,Detroit,Michigan,42.3314,-83.0457,48226,48226,4,Wayne,Detroit,Michigan,Michigan,MI,Midwest,East North Central,9728,GloriousWaffenSS,178,3,1446813117
+172.56.11.170,United States,Detroit,Michigan,42.3314,-83.0457,48226,48226,4,Wayne,Detroit,Michigan,Michigan,MI,Midwest,East North Central,13719,IDontFeartheCold,3,0,1480745557
+67.149.243.142,United States,Dearborn,Michigan,42.3223,-83.1763,48120,48120,1,Wayne,Dearborn,Michigan,Michigan,MI,Midwest,East North Central,9619,Deutsches_Vaterland,69,1,1441682242
+71.82.96.51,United States,Bay Harbor,Michigan,45.3641,-85.0821,49770,49770,1,Emmet,Petoskey,Michigan,Michigan,MI,Midwest,East North Central,13167,Schwarzmarsch,217,9,1467003125
+107.140.9.50,United States,Holly,Michigan,42.792,-83.6277,48442,48442,1,Oakland,Holly,Michigan,Michigan,MI,Midwest,East North Central,13234,Ghetto Tarzan,4,1,1468861829
+97.91.0.117,United States,Grand Haven,Michigan,43.0631,-86.2284,49417,49417,1,Ottawa,Grand Haven,Michigan,Michigan,MI,Midwest,East North Central,13289,Primavera,161,3,1470102681
+72.173.210.71,United States,Newaygo,Michigan,43.4197,-85.8,49337,49337,1,Newaygo,Newaygo,Michigan,Michigan,MI,Midwest,East North Central,13426,Saor,90,8,1473559890
+68.42.231.149,United States,Garden City,Michigan,42.3256,-83.331,48135,48135,1,Wayne,Garden City,Michigan,Michigan,MI,Midwest,East North Central,13661,Black Israelite,293,15,1479455257
+68.10.255.89,United States,Chesapeake,Virginia,36.819,-76.2749,23324,23324,1,Chesapeake,Chesapeake,Virginia,Virginia,VA,South,South Atlantic,3,Blood and Iron,490,36,1315851011
+173.55.230.221,United States,Ashburn,Virginia,39.0373,-77.4805,20147,20147,7,Loudoun,Ashburn,Virginia,Virginia,VA,South,South Atlantic,29,Ferret,304,8,1316291122
+108.0.97.192,United States,Ashburn,Virginia,39.0373,-77.4805,20147,20147,7,Loudoun,Ashburn,Virginia,Virginia,VA,South,South Atlantic,2871,Antithesis762,42,5,1360049830
+71.104.227.53,United States,Ashburn,Virginia,39.0373,-77.4805,20147,20147,7,Loudoun,Ashburn,Virginia,Virginia,VA,South,South Atlantic,5590,BrownFascist,82,10,1365977020
+173.64.208.79,United States,Ashburn,Virginia,39.0373,-77.4805,20147,20147,7,Loudoun,Ashburn,Virginia,Virginia,VA,South,South Atlantic,9861,Svart,249,18,1453670181
+173.74.110.29,United States,Ashburn,Virginia,39.0373,-77.4805,20147,20147,7,Loudoun,Ashburn,Virginia,Virginia,VA,South,South Atlantic,13061,Doctor Mayhem,43,1,1463894260
+96.251.181.146,United States,Ashburn,Virginia,39.0373,-77.4805,20147,20147,7,Loudoun,Ashburn,Virginia,Virginia,VA,South,South Atlantic,13276,Malic,10,1,1469939434
+38.101.186.130,United States,Ashburn,Virginia,39.0373,-77.4805,20147,20147,7,Loudoun,Ashburn,Virginia,Virginia,VA,South,South Atlantic,14857,Caucasiansensation,10,2,1503508077
+208.33.154.138,United States,Stuart,Virginia,36.725,-80.4022,24120,24120,1,Patrick,Meadows Of Dan,Virginia,Virginia,VA,South,South Atlantic,108,William,459,41,1326763385
+76.104.26.181,United States,Charlottesville,Virginia,38.0293,-78.4767,22902,22902,1,Charlottesville,Charlottesville,Virginia,Virginia,VA,South,South Atlantic,6122,Tenth Corporation,388,11,1369959307
+209.6.245.180,United States,Herndon,Virginia,38.9839,-77.3675,20170,20170,1,Fairfax,Herndon,Virginia,Virginia,VA,South,South Atlantic,9539,whitedevil,3,0,1435717545
+74.120.221.158,United States,Centreville,Virginia,38.8404,-77.4289,20120,20120,1,Fairfax,Centreville,Virginia,Virginia,VA,South,South Atlantic,9738,Fashlord88,5,0,1447557072
+73.147.173.97,United States,Richmond,Virginia,37.5538,-77.4603,23173,23173,1,Richmond,Richmond,Virginia,Virginia,VA,South,South Atlantic,12659,Cyborg,7,3,1461568333
+73.163.84.162,United States,Washington,Virginia,38.7135,-78.1594,22747,22747,3,Rappahannock,Washington,Virginia,Virginia,VA,South,South Atlantic,13337,TheCrisisOfTheModernWorld,4,0,1471204017
+68.98.169.180,United States,Burke,Virginia,38.7934,-77.2716,22015,22015,1,Fairfax,Burke,Virginia,Virginia,VA,South,South Atlantic,13461,FascistFascist,18,5,1474069012
+184.180.152.134,United States,Chantilly,Virginia,38.8943,-77.4311,20151,20151,1,Fairfax,Chantilly,Virginia,Virginia,VA,South,South Atlantic,13757,Mustang19,19,0,1481710009
+50.205.217.201,United States,Tuckahoe,Virginia,37.5902,-77.5564,23226,23226,1,Richmond,Richmond,Virginia,Virginia,VA,South,South Atlantic,14407,Cultor,15,4,1493828426
+152.33.17.196,United States,Elon,North Carolina,36.1029,-79.5067,27244,27244,1,Alamance,Elon,North Carolina,North Carolina,NC,South,South Atlantic,16,Talleyrand,2620,15,1315974907
+99.187.156.44,United States,Asheville,North Carolina,35.6009,-82.554,28801,28801,1,Buncombe,Asheville,North Carolina,North Carolina,NC,South,South Atlantic,317,Der Löwe,619,31,1342038547
+146.135.1.3,United States,Wake Forest,North Carolina,35.9799,-78.5097,27587,27587,1,Wake,Wake Forest,North Carolina,North Carolina,NC,South,South Atlantic,335,Black Sun,189,30,1343796079
+71.55.93.167,United States,Kinston,North Carolina,35.163,-77.6928,28525,28525,1,Lenoir,Deep Run,North Carolina,North Carolina,NC,South,South Atlantic,563,Crimson_Fasces,62,7,1346306162
+107.15.41.197,United States,Durham,North Carolina,35.9631,-78.9315,27707,27707,1,Durham,Durham,North Carolina,North Carolina,NC,South,South Atlantic,3721,suspiciouscelerystalk,909,33,1362192736
+108.78.214.147,United States,Charlotte,North Carolina,35.2271,-80.8431,28202,28202,1,Mecklenburg,Charlotte,North Carolina,North Carolina,NC,South,South Atlantic,9851,Totenkopf,7,0,1453161299
+107.15.118.25,United States,Apex,North Carolina,35.7225,-78.8408,27523,27523,1,Wake,Apex,North Carolina,North Carolina,NC,South,South Atlantic,12871,the grand prICE wizard,34,2,1461887458
+184.7.184.136,United States,Rocky Mount,North Carolina,35.9382,-77.7905,27803,27803,1,Nash,Rocky Mount,North Carolina,North Carolina,NC,South,South Atlantic,13425,Fascism or Death,7,5,1473548421
+174.24.148.81,United States,Fayetteville,North Carolina,35.0527,-78.8784,28301,28301,1,Cumberland,Fayetteville,North Carolina,North Carolina,NC,South,South Atlantic,14073,Pacific North Reich,5,0,1487643781
+173.93.39.51,United States,Wilmington,North Carolina,34.2237,-77.8862,28403,28403,1,New Hanover,Wilmington,North Carolina,North Carolina,NC,South,South Atlantic,14248,Renae,4,1,1490993948
+38.124.248.34,United States,Raleigh,North Carolina,35.7076,-78.6563,27603,27603,1,Wake,Raleigh,North Carolina,North Carolina,NC,South,South Atlantic,14485,Hellenic Skeleton,7,2,1495577946
+71.1.28.179,United States,Wilson,North Carolina,35.7715,-77.973,27896,27896,1,Wilson,Wilson,North Carolina,North Carolina,NC,South,South Atlantic,14858,Aeth,5,1,1503539220
+71.65.36.98,United States,Washington Court House,Ohio,39.5365,-83.4391,43160,43160,1,Fayette,Washington Court House,Ohio,Ohio,OH,Midwest,East North Central,35,American_Blackshirt,571,6,1316682901
+71.54.72.205,United States,Mount Vernon,Ohio,40.3934,-82.4857,43050,43050,1,Knox,Mount Vernon,Ohio,Ohio,OH,Midwest,East North Central,246,TheHobbit,145,11,1337590087
+199.188.237.212,United States,Westerville,Ohio,40.1524,-82.882,43082,43082,1,Delaware,Westerville,Ohio,Ohio,OH,Midwest,East North Central,6235,emru' al-Qais,175,11,1378453965
+24.101.147.165,United States,Austintown,Ohio,41.1017,-80.7645,44515,44515,2,Mahoning,Youngstown,Ohio,Ohio,OH,Midwest,East North Central,8117,ProperPolak,510,4,1414712997
+24.101.147.165,United States,Austintown,Ohio,41.1017,-80.7645,44515,44515,2,Mahoning,Youngstown,Ohio,Ohio,OH,Midwest,East North Central,9335,AmericanFascist,927,5,1426817099
+24.101.147.165,United States,Austintown,Ohio,41.1017,-80.7645,44515,44515,2,Mahoning,Youngstown,Ohio,Ohio,OH,Midwest,East North Central,8117,ProperPolak,510,4,1414712997
+24.101.147.165,United States,Austintown,Ohio,41.1017,-80.7645,44515,44515,2,Mahoning,Youngstown,Ohio,Ohio,OH,Midwest,East North Central,9335,AmericanFascist,927,5,1426817099
+24.210.147.32,United States,Cincinnati,Ohio,39.1516,-84.4278,45209,45209,1,Hamilton,Cincinnati,Ohio,Ohio,OH,Midwest,East North Central,9847,Rover,56,6,1452899722
+76.188.26.243,United States,Mansfield,Ohio,40.7627,-82.5593,44906,44906,1,Richland,Mansfield,Ohio,Ohio,OH,Midwest,East North Central,9930,ItalianFascist,220,30,1457050972
+184.57.9.189,United States,Columbus,Ohio,40.0999,-83.0157,43085,43085,2,Franklin,Columbus,Ohio,Ohio,OH,Midwest,East North Central,9953,Apollo,7,3,1458009118
+174.101.245.83,United States,Columbus,Ohio,40.0999,-83.0157,43085,43085,2,Franklin,Columbus,Ohio,Ohio,OH,Midwest,East North Central,13129,Naturom_Demonto,3,0,1465877292
+99.91.232.238,United States,Dayton,Ohio,39.7589,-84.1916,45402,45402,1,Montgomery,Dayton,Ohio,Ohio,OH,Midwest,East North Central,13049,Bos_Naz,12,0,1463620413
+50.5.12.133,United States,Milford,Ohio,39.1753,-84.2944,45150,45150,1,Clermont,Milford,Ohio,Ohio,OH,Midwest,East North Central,13201,Kuniklo,4,0,1468046481
+98.31.61.214,United States,Marion,Ohio,40.5887,-83.1285,43302,43302,2,Marion,Marion,Ohio,Ohio,OH,Midwest,East North Central,13381,ahdeedas,6,0,1472416850
+98.31.61.214,United States,Marion,Ohio,40.5887,-83.1285,43302,43302,2,Marion,Marion,Ohio,Ohio,OH,Midwest,East North Central,13685,Grand Crusader Mikey,19,0,1479937190
+98.31.61.214,United States,Marion,Ohio,40.5887,-83.1285,43302,43302,2,Marion,Marion,Ohio,Ohio,OH,Midwest,East North Central,13381,ahdeedas,6,0,1472416850
+98.31.61.214,United States,Marion,Ohio,40.5887,-83.1285,43302,43302,2,Marion,Marion,Ohio,Ohio,OH,Midwest,East North Central,13685,Grand Crusader Mikey,19,0,1479937190
+66.87.114.244,United States,Akron,Ohio,41.0814,-81.519,44304,44304,1,Summit,Akron,Ohio,Ohio,OH,Midwest,East North Central,13434,belobog,7,1,1473684602
+173.91.34.64,United States,Cleveland,Ohio,41.501,-81.4694,44124,44124,1,Cuyahoga,Cleveland,Ohio,Ohio,OH,Midwest,East North Central,13501,Wolfgeist,3,0,1475332917
+174.100.167.116,United States,Shaker Heights,Ohio,41.4739,-81.5371,44122,44122,1,Cuyahoga,Beachwood,Ohio,Ohio,OH,Midwest,East North Central,13523,ThePolishWolf,11,1,1475709823
+143.105.217.24,United States,Cleveland,Ohio,41.5008,-81.5516,44118,44118,1,Cuyahoga,Cleveland,Ohio,Ohio,OH,Midwest,East North Central,13636,newthoughts,2,1,1478808883
+76.5.243.227,United States,Port Jefferson,Ohio,40.3287,-84.0944,45360,45360,1,Shelby,Port Jefferson,Ohio,Ohio,OH,Midwest,East North Central,13784,Scarecrow,33,0,1482495919
+173.90.92.44,United States,Bolivar,Ohio,40.6501,-81.4521,44612,44612,1,Tuscarawas,Bolivar,Ohio,Ohio,OH,Midwest,East North Central,13792,Fasces 14,32,4,1482713067
+65.41.54.83,United States,Johnstown,Ohio,40.1537,-82.6852,43031,43031,1,Licking,Johnstown,Ohio,Ohio,OH,Midwest,East North Central,14284,BillyRayJenkins,5,0,1491598761
+65.189.246.2,United States,Middletown,Ohio,39.5151,-84.3983,45044,45044,1,Butler,Middletown,Ohio,Ohio,OH,Midwest,East North Central,14599,ThatOneNationalSocialist,10,8,1497707174
+50.5.186.82,United States,Hamilton,Ohio,39.3995,-84.5613,45011,45011,1,Butler,Hamilton,Ohio,Ohio,OH,Midwest,East North Central,14625,Panzer IV H,26,0,1498278957
+24.95.45.95,United States,Waterford,Ohio,39.5423,-81.6398,45786,45786,1,Washington,Waterford,Ohio,Ohio,OH,Midwest,East North Central,14801,NatSoc Veteran,4,0,1502546384
+67.240.139.100,United States,Batavia,New York,42.9829,-78.0898,14143,14143,1,Genesee,Stafford,New York,New York,NY,Northeast,Middle Atlantic,37,Figlio di Moros,482,26,1316808017
+74.110.8.213,United States,Lackawanna,New York,42.8256,-78.8234,14218,14218,1,Erie,Buffalo,New York,New York,NY,Northeast,Middle Atlantic,6113,Aquila,2500,22,1369115184
+173.45.185.240,United States,Trumansburg,New York,42.5423,-76.6661,14886,14886,1,Seneca,Trumansburg,New York,New York,NY,Northeast,Middle Atlantic,6156,AmericanNativist,42,3,1372317545
+68.199.109.203,United States,Spring Valley,New York,41.1131,-74.0438,10977,10977,1,Rockland,Spring Valley,New York,New York,NY,Northeast,Middle Atlantic,6168,Raycis,1699,52,1373514624
+24.38.202.47,United States,New York City,New York,40.7143,-74.006,10004,10004,14,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,6240,Blood_of_Patriots,1,3,1378840853
+68.195.99.156,United States,New York City,New York,40.7143,-74.006,10004,10004,14,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,7643,Silvershirt,294,23,1396388904
+96.246.22.214,United States,New York City,New York,40.7143,-74.006,10004,10004,14,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,7716,Satanic fascist,35,2,1399513482
+24.190.23.149,United States,New York City,New York,40.7143,-74.006,10004,10004,14,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,7986,Ethiopian Monarchist,341,22,1411153700
+77.234.44.134,United States,New York City,New York,40.7143,-74.006,10004,10004,14,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,9886,Sword of Tyr,5,0,1455109168
+98.116.165.190,United States,New York City,New York,40.7143,-74.006,10004,10004,14,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,10807,Muh Medieval Iceland,61,0,1459732491
+68.132.5.70,United States,New York City,New York,40.7143,-74.006,10004,10004,14,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,13427,MightyHUWhitey,14,2,1473569201
+172.104.117.118,United States,New York City,New York,40.7143,-74.006,10004,10004,14,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,14926,cucc queen,47,0,1505240953
+198.105.46.237,United States,New York City,New York,40.7143,-74.006,10004,10004,14,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,14965,Obsidian Filter,2,0,1505846008
+172.68.26.30,United States,New York City,New York,40.7143,-74.006,10004,10004,14,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,15052,better dead than red,4,1,1508044468
+162.158.69.171,United States,New York City,New York,40.7143,-74.006,10004,10004,14,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,15115,Heinrich ABP,1,0,1509294075
+188.114.102.215,United States,New York City,New York,40.7143,-74.006,10004,10004,14,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,15198,68white,0,0,1510708605
+188.114.102.5,United States,New York City,New York,40.7143,-74.006,10004,10004,14,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,15207,MerchantHunter,0,0,1510848303
+172.68.27.247,United States,New York City,New York,40.7143,-74.006,10004,10004,14,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,15209,Camisa Verde,0,0,1510865674
+69.117.96.250,United States,Hampton Bays,New York,40.869,-72.5176,11946,11946,1,Suffolk,Hampton Bays,New York,New York,NY,Northeast,Middle Atlantic,6269,Another American,1087,15,1380751863
+170.24.128.194,United States,Westbury,New York,40.7557,-73.5876,11590,11590,1,Nassau,Westbury,New York,New York,NY,Northeast,Middle Atlantic,8310,Commonwealth Futurist,104,3,1418651759
+108.29.92.205,United States,Freeport,New York,40.6576,-73.5832,11520,11520,1,Nassau,Freeport,New York,New York,NY,Northeast,Middle Atlantic,9446,NotEqual,1160,2,1430435092
+67.246.151.74,United States,Rochester,New York,43.1685,-77.6845,14606,14606,2,Monroe,Rochester,New York,New York,NY,Northeast,Middle Atlantic,9555,Babels,146,10,1436761241
+74.78.35.229,United States,Rochester,New York,43.1685,-77.6845,14606,14606,2,Monroe,Rochester,New York,New York,NY,Northeast,Middle Atlantic,9697,Marshal Ironsides,7,1,1444865320
+69.120.9.104,United States,Peekskill,New York,41.2901,-73.9204,10566,10566,4,Westchester,Peekskill,New York,New York,NY,Northeast,Middle Atlantic,9636,COPROVORE,107,3,1442350130
+69.120.10.64,United States,Peekskill,New York,41.2901,-73.9204,10566,10566,4,Westchester,Peekskill,New York,New York,NY,Northeast,Middle Atlantic,9759,Chad Warden,4,0,1448654796
+69.120.10.64,United States,Peekskill,New York,41.2901,-73.9204,10566,10566,4,Westchester,Peekskill,New York,New York,NY,Northeast,Middle Atlantic,9797,hcom,30,0,1451244364
+69.120.10.64,United States,Peekskill,New York,41.2901,-73.9204,10566,10566,4,Westchester,Peekskill,New York,New York,NY,Northeast,Middle Atlantic,9759,Chad Warden,4,0,1448654796
+69.120.10.64,United States,Peekskill,New York,41.2901,-73.9204,10566,10566,4,Westchester,Peekskill,New York,New York,NY,Northeast,Middle Atlantic,9797,hcom,30,0,1451244364
+69.120.9.58,United States,Peekskill,New York,41.2901,-73.9204,10566,10566,4,Westchester,Peekskill,New York,New York,NY,Northeast,Middle Atlantic,9958,BlackNazi,48,1,1458348314
+67.242.166.62,United States,Troy,New York,42.7829,-73.6648,12182,12182,1,Rensselaer,Troy,New York,New York,NY,Northeast,Middle Atlantic,9941,DagonGreyjoy,18,9,1457400538
+68.196.136.78,United States,Manorville,New York,40.8737,-72.8079,11949,11949,1,Suffolk,Manorville,New York,New York,NY,Northeast,Middle Atlantic,13005,GG ALLIN,328,0,1462660376
+68.196.182.137,United States,Smithtown,New York,40.8559,-73.2007,11787,11787,2,Suffolk,Smithtown,New York,New York,NY,Northeast,Middle Atlantic,13169,orthodoxslavaboo,38,1,1467149642
+68.196.182.137,United States,Smithtown,New York,40.8559,-73.2007,11787,11787,2,Suffolk,Smithtown,New York,New York,NY,Northeast,Middle Atlantic,13860,OMEGA WEAPON,147,3,1484089735
+68.196.182.137,United States,Smithtown,New York,40.8559,-73.2007,11787,11787,2,Suffolk,Smithtown,New York,New York,NY,Northeast,Middle Atlantic,13169,orthodoxslavaboo,38,1,1467149642
+68.196.182.137,United States,Smithtown,New York,40.8559,-73.2007,11787,11787,2,Suffolk,Smithtown,New York,New York,NY,Northeast,Middle Atlantic,13860,OMEGA WEAPON,147,3,1484089735
+45.56.148.201,United States,Financial District,New York,40.7185,-74.0025,10013,10013,1,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,13258,RighteousIndignation,59,2,1469399877
+24.46.247.10,United States,Huntington Station,New York,40.8534,-73.4115,11746,11746,1,Suffolk,Huntington Station,New York,New York,NY,Northeast,Middle Atlantic,13413,Auggie Bo-Dizzle,4,0,1473303641
+162.243.51.88,United States,Gramercy Park,New York,40.7402,-73.9996,10011,10011,2,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,13669,Iowan,17,0,1479702316
+107.170.44.91,United States,Gramercy Park,New York,40.7402,-73.9996,10011,10011,2,New York,New York,New York,New York,NY,Northeast,Middle Atlantic,14905,Sw1ftF0x,5,1,1504650310
+108.21.61.233,United States,Levittown,New York,40.7259,-73.5143,11756,11756,2,Nassau,Levittown,New York,New York,NY,Northeast,Middle Atlantic,13681,Celt,898,0,1479849314
+173.2.49.46,United States,Levittown,New York,40.7259,-73.5143,11756,11756,2,Nassau,Levittown,New York,New York,NY,Northeast,Middle Atlantic,14228,Vonte,3,1,1490573638
+69.117.172.125,United States,Centereach,New York,40.8584,-73.0995,11720,11720,1,Suffolk,Centereach,New York,New York,NY,Northeast,Middle Atlantic,13876,Samson,1,0,1484504651
+69.113.105.22,United States,Lynbrook,New York,40.6548,-73.6718,11563,11563,1,Nassau,Lynbrook,New York,New York,NY,Northeast,Middle Atlantic,13941,VISIONS_FROM_PATMOS,24,2,1485502083
+108.21.104.251,United States,Massapequa,New York,40.6807,-73.4743,11758,11758,2,Nassau,Massapequa,New York,New York,NY,Northeast,Middle Atlantic,14301,The Rouge American,19,0,1491854546
+108.21.104.251,United States,Massapequa,New York,40.6807,-73.4743,11758,11758,2,Nassau,Massapequa,New York,New York,NY,Northeast,Middle Atlantic,14427,Von Fiene,13,0,1494199419
+108.21.104.251,United States,Massapequa,New York,40.6807,-73.4743,11758,11758,2,Nassau,Massapequa,New York,New York,NY,Northeast,Middle Atlantic,14301,The Rouge American,19,0,1491854546
+108.21.104.251,United States,Massapequa,New York,40.6807,-73.4743,11758,11758,2,Nassau,Massapequa,New York,New York,NY,Northeast,Middle Atlantic,14427,Von Fiene,13,0,1494199419
+71.185.163.249,United States,Glenside,Pennsylvania,40.1023,-75.1521,19038,19038,1,Montgomery,Glenside,Pennsylvania,Pennsylvania,PA,Northeast,Middle Atlantic,49,Владимир_Борисов,2968,40,1317770118
+198.228.235.252,United States,Doylestown,Pennsylvania,40.1976,-77.7214,18901,18901,1,Bucks,Doylestown,Pennsylvania,Pennsylvania,PA,Northeast,Middle Atlantic,84,FascistCapitalist,974,45,1322971969
+24.229.117.252,United States,Bethlehem,Pennsylvania,40.6002,-75.3805,18015,18015,1,Northampton,Bethlehem,Pennsylvania,Pennsylvania,PA,Northeast,Middle Atlantic,140,SchwarzFrontUSA,149,18,1328395083
+173.75.42.123,United States,Pittsburgh,Pennsylvania,40.4406,-79.9959,15212,15212,3,Allegheny,Pittsburgh,Pennsylvania,Pennsylvania,PA,Northeast,Middle Atlantic,298,Aristocrat,151,17,1341111646
+173.75.43.73,United States,Pittsburgh,Pennsylvania,40.4406,-79.9959,15212,15212,3,Allegheny,Pittsburgh,Pennsylvania,Pennsylvania,PA,Northeast,Middle Atlantic,337,FreeMarketFascist,3,0,1343894223
+128.237.126.60,United States,Pittsburgh,Pennsylvania,40.4406,-79.9959,15212,15212,3,Allegheny,Pittsburgh,Pennsylvania,Pennsylvania,PA,Northeast,Middle Atlantic,14962,swordoftruth19,30,0,1505804538
+66.211.238.237,United States,Erie,Pennsylvania,42.1109,-80.1534,16505,16505,1,Erie,Erie,Pennsylvania,Pennsylvania,PA,Northeast,Middle Atlantic,9112,Sturmgeist,799,14,1421121248
+204.14.13.132,United States,Enola,Pennsylvania,40.3078,-76.9312,17093,17093,1,Cumberland,Summerdale,Pennsylvania,Pennsylvania,PA,Northeast,Middle Atlantic,9780,Zeroangle,27,4,1450105401
+73.236.59.114,United States,Aliquippa,Pennsylvania,40.6367,-80.2401,15001,15001,1,Beaver,Aliquippa,Pennsylvania,Pennsylvania,PA,Northeast,Middle Atlantic,9884,Maukali,3,0,1455004747
+67.214.21.64,United States,Ephrata,Pennsylvania,40.1798,-76.1788,17522,17522,1,Lancaster,Ephrata,Pennsylvania,Pennsylvania,PA,Northeast,Middle Atlantic,13205,Ojczyzna,2,3,1468183936
+100.14.176.115,United States,Norristown,Pennsylvania,40.1215,-75.3399,19401,19401,1,Montgomery,Norristown,Pennsylvania,Pennsylvania,PA,Northeast,Middle Atlantic,13465,McDago,2,0,1474160855
+24.210.204.146,United States,Erie,Pennsylvania,42.0738,-80.1484,16506,16506,1,Erie,Erie,Pennsylvania,Pennsylvania,PA,Northeast,Middle Atlantic,14162,Wolfsschanze-ϟϟ,37,1,1489251272
+24.119.136.187,United States,Prescott,Arizona,34.5917,-112.4265,86301,86301,1,Yavapai,Prescott,Arizona,Arizona,AZ,West,Mountain,50,AgainstTheTideOfTime,195,9,1317854742
+23.81.47.96,United States,Phoenix,Arizona,33.6731,-111.9461,85054,85054,1,Maricopa,Phoenix,Arizona,Arizona,AZ,West,Mountain,9583,James Futurist,233,5,1439038332
+68.228.54.225,United States,Goodyear,Arizona,33.4353,-112.3582,85338,85338,1,Maricopa,Goodyear,Arizona,Arizona,AZ,West,Mountain,13705,germaniarising,6,7,1480390037
+98.159.120.164,United States,Marion,Iowa,42.0342,-91.5977,52302,52302,1,Linn,Marion,Iowa,Iowa,IA,Midwest,West North Central,54,With Hate As My Sword,615,20,1318473917
+173.189.155.229,United States,Dumas,Texas,35.8656,-101.9732,79029,79029,1,Moore,Dumas,Texas,Texas,TX,South,West South Central,94,Frost Hammer,66,0,1324601265
+67.10.203.179,United States,Bedford,Texas,32.8536,-97.1358,76021,76021,1,Tarrant,Bedford,Texas,Texas,TX,South,West South Central,130,Pro Patria Mori,2350,30,1328158899
+64.189.79.27,United States,Odessa,Texas,31.889,-102.3548,79762,79762,1,Ector,Odessa,Texas,Texas,TX,South,West South Central,143,Kaiser,124,3,1328729892
+24.72.162.13,United States,Sour Lake,Texas,30.1402,-94.411,77659,77659,1,Hardin,Sour Lake,Texas,Texas,TX,South,West South Central,349,Anonymous,0,0,1344289289
+208.54.86.163,United States,Dallas,Texas,32.7831,-96.8067,75270,75270,3,Dallas,Dallas,Texas,Texas,TX,South,West South Central,6144,calvinist-fascist,273,8,1371664961
+166.137.126.115,United States,Dallas,Texas,32.7831,-96.8067,75270,75270,3,Dallas,Dallas,Texas,Texas,TX,South,West South Central,14387,Tedium,4,0,1493346815
+209.58.144.209,United States,Dallas,Texas,32.7831,-96.8067,75270,75270,3,Dallas,Dallas,Texas,Texas,TX,South,West South Central,14994,Vypr,5,0,1506402592
+199.187.249.32,United States,Coldspring,Texas,30.5924,-95.1294,77331,77331,1,San Jacinto,Coldspring,Texas,Texas,TX,South,West South Central,6359,Burgermeister,953,15,1385108157
+64.134.230.199,United States,Austin,Texas,30.1876,-97.7472,78744,78744,1,Travis,Austin,Texas,Texas,TX,South,West South Central,7745,jorgea,0,0,1400772880
+173.175.52.136,United States,Woodway,Texas,31.506,-97.205,76712,76712,1,McLennan,Woodway,Texas,Texas,TX,South,West South Central,7903,FascistPirate,309,3,1407035433
+72.182.111.186,United States,Austin,Texas,30.3093,-97.7242,78751,78751,1,Travis,Austin,Texas,Texas,TX,South,West South Central,9248,naturalselector,6,2,1425114845
+99.92.245.227,United States,Rockwall,Texas,32.9312,-96.4597,75087,75087,1,Rockwall,Rockwall,Texas,Texas,TX,South,West South Central,9363,Goeth,61,0,1427920394
+104.58.232.7,United States,Fort Worth,Texas,32.7254,-97.3208,76104,76104,1,Tarrant,Fort Worth,Texas,Texas,TX,South,West South Central,9592,reignofkemer,22,1,1439828221
+45.27.220.130,United States,Spring,Texas,30.1044,-95.5066,77389,77389,1,Harris,Spring,Texas,Texas,TX,South,West South Central,9931,Kay Kay Kay,1092,6,1457054533
+76.186.81.155,United States,Arlington,Texas,32.6931,-97.1347,76015,76015,1,Tarrant,Arlington,Texas,Texas,TX,South,West South Central,13200,Futurist,14,1,1468024879
+75.108.196.13,United States,Atascocita,Texas,30.0569,-95.1835,77339,77339,1,Harris,Kingwood,Texas,Texas,TX,South,West South Central,13301,Thulean,30,8,1470370757
+74.193.2.247,United States,Conroe,Texas,30.3119,-95.4561,77301,77301,1,Montgomery,Conroe,Texas,Texas,TX,South,West South Central,13353,Rape,161,9,1471652208
+50.27.59.81,United States,Tyler,Texas,32.3254,-95.2922,75701,75701,2,Smith,Tyler,Texas,Texas,TX,South,West South Central,13881,NacionalistaAnonimo,2,0,1484551947
+173.81.167.149,United States,Tyler,Texas,32.3254,-95.2922,75701,75701,2,Smith,Tyler,Texas,Texas,TX,South,West South Central,14841,Ozzy,49,0,1503190802
+162.216.46.7,United States,Plano,Texas,33.0277,-96.6777,75074,75074,1,Collin,Plano,Texas,Texas,TX,South,West South Central,13901,Jason,240,13,1484865824
+99.20.104.25,United States,Frisco,Texas,33.1507,-96.8236,75034,75034,1,Denton,Frisco,Texas,Texas,TX,South,West South Central,14141,oneirosvox,2,1,1488773694
+131.194.180.234,United States,San Antonio,Texas,29.4241,-98.4936,78205,78205,1,Bexar,San Antonio,Texas,Texas,TX,South,West South Central,14216,Kampf,6,0,1490254737
+24.242.202.64,United States,Nederland,Texas,29.9744,-93.9924,77627,77627,1,Jefferson,Nederland,Texas,Texas,TX,South,West South Central,14400,TexasVet,10,0,1493694851
+67.11.212.60,United States,San Antonio,Texas,29.5395,-98.4194,78217,78217,1,Bexar,San Antonio,Texas,Texas,TX,South,West South Central,14815,infinitehell,5,0,1502770954
+199.249.223.78,United States,San Angelo,Texas,31.4782,-100.4818,76901,76901,2,Tom Green,San Angelo,Texas,Texas,TX,South,West South Central,14970,Curmudgeon,7,0,1505876508
+199.249.223.72,United States,San Angelo,Texas,31.4782,-100.4818,76901,76901,2,Tom Green,San Angelo,Texas,Texas,TX,South,West South Central,15024,Kameradschaft,3,0,1507224169
+75.81.19.89,United States,Lenexa,Kansas,38.9536,-94.7336,66220,66220,1,Johnson,Lenexa,Kansas,Kansas,KS,Midwest,West North Central,131,Confederate,389,9,1328159562
+65.26.125.141,United States,Kansas City,Kansas,39.0694,-94.7178,66106,66106,1,Wyandotte,Kansas City,Kansas,Kansas,KS,Midwest,West North Central,6321,Culius Jaeser,741,5,1383887310
+208.114.92.19,United States,Atchison,Kansas,39.563,-95.1216,66002,66002,1,Atchison,Atchison,Kansas,Kansas,KS,Midwest,West North Central,13438,Glenn,227,9,1473705038
+104.186.96.180,United States,Hutchinson,Kansas,38.0608,-97.9298,67501,67501,1,Reno,Hutchinson,Kansas,Kansas,KS,Midwest,West North Central,14100,JoeSchmoe,3,2,1488034870
+64.189.131.17,United States,Lawrence,Kansas,38.9717,-95.2352,66045,66045,1,Douglas,Lawrence,Kansas,Kansas,KS,Midwest,West North Central,14143,The Inquisitor,4,0,1488856234
+68.204.108.97,United States,Kissimmee,Florida,28.268,-81.4675,34746,34746,1,Osceola,Kissimmee,Florida,Florida,FL,South,South Atlantic,142,Judikar,146,20,1328606517
+66.177.172.192,United States,Jacksonville,Florida,30.3322,-81.6556,32202,32202,3,Duval,Jacksonville,Florida,Florida,FL,South,South Atlantic,805,nodthenarb,134,7,1347295926
+98.224.59.83,United States,Jacksonville,Florida,30.3322,-81.6556,32202,32202,3,Duval,Jacksonville,Florida,Florida,FL,South,South Atlantic,14170,cjlavan,2,1,1489380595
+24.129.76.219,United States,Jacksonville,Florida,30.3322,-81.6556,32202,32202,3,Duval,Jacksonville,Florida,Florida,FL,South,South Atlantic,15014,Erwin,1,0,1506904277
+71.43.49.42,United States,Melbourne,Florida,28.0691,-80.62,32901,32901,1,Brevard,Melbourne,Florida,Florida,FL,South,South Atlantic,3456,Omera,3,1,1361664592
+131.247.226.153,United States,Tampa,Florida,27.9475,-82.4584,33606,33606,1,Hillsborough,Tampa,Florida,Florida,FL,South,South Atlantic,7600,Odin,1786,56,1395429612
+184.89.163.201,United States,Altamonte Springs,Florida,28.6625,-81.4117,32714,32714,1,Seminole,Altamonte Springs,Florida,Florida,FL,South,South Atlantic,9661,slavdong,50,1,1442954686
+142.196.7.191,United States,Daytona Beach,Florida,29.2219,-81.0095,32118,32118,2,Volusia,Daytona Beach,Florida,Florida,FL,South,South Atlantic,9690,GrandGiant,242,6,1444471593
+142.196.7.191,United States,Daytona Beach,Florida,29.2219,-81.0095,32118,32118,2,Volusia,Daytona Beach,Florida,Florida,FL,South,South Atlantic,13379,Nazi,10,0,1472405445
+142.196.7.191,United States,Daytona Beach,Florida,29.2219,-81.0095,32118,32118,2,Volusia,Daytona Beach,Florida,Florida,FL,South,South Atlantic,9690,GrandGiant,242,6,1444471593
+142.196.7.191,United States,Daytona Beach,Florida,29.2219,-81.0095,32118,32118,2,Volusia,Daytona Beach,Florida,Florida,FL,South,South Atlantic,13379,Nazi,10,0,1472405445
+108.244.133.138,United States,Cocoa,Florida,28.3861,-80.742,32922,32922,2,Brevard,Cocoa,Florida,Florida,FL,South,South Atlantic,9748,jarhead,1,0,1447868579
+184.88.75.206,United States,Cocoa,Florida,28.3861,-80.742,32922,32922,2,Brevard,Cocoa,Florida,Florida,FL,South,South Atlantic,13264,Paugers,50,4,1469499062
+72.185.252.8,United States,Tampa,Florida,27.9425,-82.5057,33609,33609,1,Hillsborough,Tampa,Florida,Florida,FL,South,South Atlantic,13058,folkpride,5,1,1463844722
+72.196.96.2,United States,Gainesville,Florida,29.6516,-82.3248,32601,32601,1,Alachua,Gainesville,Florida,Florida,FL,South,South Atlantic,13182,LogicalApathy,1,1,1467690832
+76.101.192.180,United States,Naples Park,Florida,26.2617,-81.8093,34108,34108,1,Collier,Naples,Florida,Florida,FL,South,South Atlantic,13266,TheGermanShepherd,8,0,1469552015
+173.168.112.205,United States,North Weeki Wachee,Florida,28.5501,-82.5589,34613,34613,1,Hernando,Brooksville,Florida,Florida,FL,South,South Atlantic,13308,WolfMan,72,2,1470537104
+173.169.26.8,United States,Bradenton,Florida,27.45,-82.3773,34211,34211,1,Manatee,Bradenton,Florida,Florida,FL,South,South Atlantic,13641,TeenageCavemaan,21,1,1479072570
+104.137.108.23,United States,Cantonment,Florida,30.6085,-87.34,32533,32533,1,Escambia,Cantonment,Florida,Florida,FL,South,South Atlantic,13686,RegnumDei,102,4,1479960206
+70.127.213.169,United States,Gulfport,Florida,27.7484,-82.7034,33711,33711,1,Pinellas,Saint Petersburg,Florida,Florida,FL,South,South Atlantic,13691,Darkstar,7,1,1480050317
+67.8.39.179,United States,Orlando,Florida,28.5725,-81.1219,32820,32820,1,Orange,Orlando,Florida,Florida,FL,South,South Atlantic,13692,Antonio,126,12,1480051936
+47.203.57.49,United States,Brandon,Florida,27.9551,-82.2966,33510,33510,1,Hillsborough,Brandon,Florida,Florida,FL,South,South Atlantic,13951,lugenpresse,1,0,1485713336
+47.200.223.14,United States,Palmetto,Florida,27.5429,-82.563,34221,34221,1,Manatee,Palmetto,Florida,Florida,FL,South,South Atlantic,14165,Rassenreinheit,7,0,1489277452
+74.4.220.64,United States,Ocala,Florida,29.1605,-82.1288,34471,34471,1,Marion,Ocala,Florida,Florida,FL,South,South Atlantic,14543,Florida Amerikaner,2,0,1496548930
+71.52.180.192,United States,Cape Coral,Florida,26.6065,-81.9502,33904,33904,1,Lee,Cape Coral,Florida,Florida,FL,South,South Atlantic,14581,Peak Finance,1,0,1497228619
+98.192.140.206,United States,Lynn Haven,Florida,30.2455,-85.6483,32444,32444,1,Bay,Lynn Haven,Florida,Florida,FL,South,South Atlantic,15045,BusterHymen,2,0,1507593409
+134.88.170.184,United States,Smith Mills,Massachusetts,41.639,-70.9912,2747,2747,2,Bristol,North Dartmouth,Massachusetts,Massachusetts,MA,Northeast,New England,164,Yorick,529,9,1330104530
+134.88.151.30,United States,Smith Mills,Massachusetts,41.639,-70.9912,2747,2747,2,Bristol,North Dartmouth,Massachusetts,Massachusetts,MA,Northeast,New England,6254,SonofRoosevelt,234,6,1379643450
+24.2.187.182,United States,Revere,Massachusetts,42.4084,-71.012,2151,2151,1,Suffolk,Revere,Massachusetts,Massachusetts,MA,Northeast,New England,991,Duckface,134,9,1349045221
+24.61.214.45,United States,Stoneham,Massachusetts,42.4801,-71.0995,2180,2180,1,Middlesex,Stoneham,Massachusetts,Massachusetts,MA,Northeast,New England,9960,Borovikov,6,4,1458414702
+71.10.232.145,United States,Chicopee,Massachusetts,42.1764,-72.5761,1020,1020,3,Hampden,Chicopee,Massachusetts,Massachusetts,MA,Northeast,New England,13137,viralepisode,40,5,1466206064
+97.80.104.184,United States,Chicopee,Massachusetts,42.1764,-72.5761,1020,1020,3,Hampden,Chicopee,Massachusetts,Massachusetts,MA,Northeast,New England,14018,youthknives,320,8,1487133833
+75.134.243.76,United States,Chicopee,Massachusetts,42.1764,-72.5761,1020,1020,3,Hampden,Chicopee,Massachusetts,Massachusetts,MA,Northeast,New England,14347,MCMXXI,11,2,1492756297
+71.232.21.81,United States,Boston,Massachusetts,42.3584,-71.0598,2109,2109,3,Suffolk,Boston,Massachusetts,Massachusetts,MA,Northeast,New England,13225,LordOfTheEdge,4,0,1468668872
+71.255.161.81,United States,Boston,Massachusetts,42.3584,-71.0598,2109,2109,3,Suffolk,Boston,Massachusetts,Massachusetts,MA,Northeast,New England,14233,wotanickommando,10,1,1490666553
+172.68.54.23,United States,Boston,Massachusetts,42.3584,-71.0598,2109,2109,3,Suffolk,Boston,Massachusetts,Massachusetts,MA,Northeast,New England,15163,Mycelium,2,0,1510174193
+24.63.2.104,United States,Walpole,Massachusetts,42.1418,-71.2495,2081,2081,1,Norfolk,Walpole,Massachusetts,Massachusetts,MA,Northeast,New England,13358,Stuka95,1,0,1471833354
+72.74.150.202,United States,North Andover,Massachusetts,42.6987,-71.1351,1845,1845,1,Essex,North Andover,Massachusetts,Massachusetts,MA,Northeast,New England,13389,talldarkandnationalist,2,0,1472585117
+66.30.21.57,United States,Wakefield,Massachusetts,42.5065,-71.0728,1880,1880,1,Middlesex,Wakefield,Massachusetts,Massachusetts,MA,Northeast,New England,13416,Albert Macht Frei,30,0,1473424059
+76.28.67.203,United States,Turners Falls,Massachusetts,42.6043,-72.5565,1376,1376,1,Franklin,Turners Falls,Massachusetts,Massachusetts,MA,Northeast,New England,13442,JacobTheGoy,19,1,1473730128
+71.245.233.186,United States,Wenham,Massachusetts,42.6043,-70.8912,1984,1984,1,Essex,Wenham,Massachusetts,Massachusetts,MA,Northeast,New England,13892,Showakamikaze,4,0,1484758820
+76.23.38.38,United States,Holladay,Utah,40.6688,-111.8247,84124,84124,1,Salt Lake,Salt Lake City,Utah,Utah,UT,West,Mountain,271,NatCap,190,4,1339928959
+65.100.197.79,United States,West Jordan,Utah,40.6097,-111.9391,84084,84084,1,Salt Lake,West Jordan,Utah,Utah,UT,West,Mountain,293,☧☧☧,694,25,1340847602
+65.130.207.240,United States,Herriman,Utah,40.5141,-112.033,84096,84096,1,Salt Lake,Herriman,Utah,Utah,UT,West,Mountain,13528,OutlawKangaroo,6,1,1475902170
+146.185.26.230,United States,Providence,Utah,41.7063,-111.8172,84332,84332,2,Cache,Providence,Utah,Utah,UT,West,Mountain,13620,Dubiouslithuanian,11,2,1478470075
+206.190.145.84,United States,Providence,Utah,41.7063,-111.8172,84332,84332,2,Cache,Providence,Utah,Utah,UT,West,Mountain,14099,xor,3,0,1487965971
+184.9.97.155,United States,Rhinelander,Wisconsin,45.6366,-89.4121,54501,54501,1,Oneida,Rhinelander,Wisconsin,Wisconsin,WI,Midwest,East North Central,274,Palmer,1170,24,1340055951
+24.240.86.11,United States,Sun Prairie,Wisconsin,43.1836,-89.2137,53590,53590,1,Dane,Sun Prairie,Wisconsin,Wisconsin,WI,Midwest,East North Central,9705,Freikorps,150,1,1445651619
+71.10.126.3,United States,Wausau,Wisconsin,44.9591,-89.6301,54401,54401,1,Marathon,Wausau,Wisconsin,Wisconsin,WI,Midwest,East North Central,10953,Zorost,27,0,1459805268
+24.163.138.126,United States,Menomonee Falls,Wisconsin,43.1602,-88.1128,53051,53051,1,Waukesha,Menomonee Falls,Wisconsin,Wisconsin,WI,Midwest,East North Central,13042,Kenau,24,4,1463531382
+97.87.58.68,United States,Madison,Wisconsin,43.0631,-89.3133,53716,53716,1,Dane,Madison,Wisconsin,Wisconsin,WI,Midwest,East North Central,13770,WisconsinGoy1488,4,0,1482087110
+71.82.255.209,United States,Juneau,Wisconsin,43.4055,-88.7051,53039,53039,1,Dodge,Juneau,Wisconsin,Wisconsin,WI,Midwest,East North Central,13823,Jesse Only,13,0,1483341652
+216.26.103.215,United States,Luck,Wisconsin,45.5761,-92.4827,54853,54853,1,Polk,Luck,Wisconsin,Wisconsin,WI,Midwest,East North Central,13995,Helios,38,3,1486433638
+71.13.246.52,United States,West Bend,Wisconsin,43.4253,-88.1834,53095,53095,1,Washington,West Bend,Wisconsin,Wisconsin,WI,Midwest,East North Central,14605,Volker,24,0,1497825750
+76.4.189.134,United States,Waynesville,Missouri,37.8287,-92.2007,65583,65583,1,Pulaski,Waynesville,Missouri,Missouri,MO,Midwest,West North Central,281,Mongo,657,8,1340401316
+69.29.216.200,United States,Ozark,Missouri,37.0209,-93.206,65721,65721,1,Christian,Ozark,Missouri,Missouri,MO,Midwest,West North Central,6249,The Yank,382,17,1379210012
+72.105.113.82,United States,Springfield,Missouri,37.1852,-93.2057,65809,65809,1,Greene,Springfield,Missouri,Missouri,MO,Midwest,West North Central,7504,Arete,762,2,1393094702
+159.118.22.243,United States,Joplin,Missouri,37.0969,-94.5051,64801,64801,1,Jasper,Joplin,Missouri,Missouri,MO,Midwest,West North Central,13317,TexasNationalist,6,0,1470704365
+71.86.52.182,United States,Saint Peters,Missouri,38.8003,-90.6265,63376,63376,1,St. Charles,Saint Peters,Missouri,Missouri,MO,Midwest,West North Central,13984,edelweiss,1,0,1486180505
+97.87.141.199,United States,Chesterfield,Missouri,38.6491,-90.5358,63017,63017,1,St. Louis,Chesterfield,Missouri,Missouri,MO,Midwest,West North Central,14069,Lt_Gonville_Bromhead,3,3,1487639578
+24.107.157.79,United States,Olivette,Missouri,38.6653,-90.376,63132,63132,1,St. Louis,Saint Louis,Missouri,Missouri,MO,Midwest,West North Central,14761,Blondie,2,0,1501384574
+71.46.93.149,United States,Carmel,Indiana,39.9784,-86.118,46032,46032,1,Hamilton,Carmel,Indiana,Indiana,IN,Midwest,East North Central,323,parrott,29,6,1342662688
+67.236.240.25,United States,Syracuse,Indiana,41.4278,-85.7525,46567,46567,1,Kosciusko,Syracuse,Indiana,Indiana,IN,Midwest,East North Central,9206,Fashy Goy,9,3,1423801901
+68.38.85.240,United States,Shelbyville,Indiana,39.5214,-85.7769,46176,46176,1,Shelby,Shelbyville,Indiana,Indiana,IN,Midwest,East North Central,9549,Riftbolt,236,34,1436321868
+98.253.148.82,United States,South Bend,Indiana,41.6834,-86.25,46601,46601,1,St. Joseph,South Bend,Indiana,Indiana,IN,Midwest,East North Central,13703,RadicalTraditionalist,3,0,1480312698
+50.127.35.174,United States,Fort Wayne,Indiana,41.048,-85.1135,46806,46806,1,Allen,Fort Wayne,Indiana,Indiana,IN,Midwest,East North Central,13771,BloodEagle,553,17,1482094847
+76.11.172.116,United States,Mitchell,Indiana,38.7328,-86.4736,47446,47446,2,Lawrence,Mitchell,Indiana,Indiana,IN,Midwest,East North Central,13858,MatthewHeimbach,22,2,1484018040
+76.11.172.116,United States,Mitchell,Indiana,38.7328,-86.4736,47446,47446,2,Lawrence,Mitchell,Indiana,Indiana,IN,Midwest,East North Central,13891,Jason Augustus,88,3,1484736627
+76.11.172.116,United States,Mitchell,Indiana,38.7328,-86.4736,47446,47446,2,Lawrence,Mitchell,Indiana,Indiana,IN,Midwest,East North Central,13858,MatthewHeimbach,22,2,1484018040
+76.11.172.116,United States,Mitchell,Indiana,38.7328,-86.4736,47446,47446,2,Lawrence,Mitchell,Indiana,Indiana,IN,Midwest,East North Central,13891,Jason Augustus,88,3,1484736627
+50.90.22.251,United States,Indianapolis,Indiana,39.8082,-86.1014,46218,46218,1,Marion,Indianapolis,Indiana,Indiana,IN,Midwest,East North Central,14450,Cr4ck3r,24,10,1494827808
+184.170.165.251,United States,Vincennes,Indiana,38.6773,-87.5286,47591,47591,1,Knox,Vincennes,Indiana,Indiana,IN,Midwest,East North Central,14778,Spaghetti Fash,12,0,1501699778
+174.96.38.22,United States,Danville,Kentucky,37.6456,-84.7722,40422,40422,1,Boyle,Danville,Kentucky,Kentucky,KY,South,East South Central,329,kinumarch,530,10,1343364296
+24.93.247.191,United States,Somerset,Kentucky,37.1029,-84.5443,42501,42501,1,Pulaski,Somerset,Kentucky,Kentucky,KY,South,East South Central,9704,EvolaChan,18,0,1445605081
+50.5.157.33,United States,Union,Kentucky,38.9459,-84.6805,41091,41091,1,Boone,Union,Kentucky,Kentucky,KY,South,East South Central,10459,Horst Wessel,2,1,1459525465
+74.135.106.81,United States,Owensboro,Kentucky,37.7513,-87.1554,42301,42301,1,Daviess,Owensboro,Kentucky,Kentucky,KY,South,East South Central,13250,Vormulak,34,0,1469147870
+173.28.227.22,United States,Columbus,Georgia,32.4779,-84.898,31907,31907,1,Muscogee,Columbus,Georgia,Georgia,GA,South,South Atlantic,333,Malhard,451,12,1343619933
+75.44.146.22,United States,Cartersville,Georgia,34.1653,-84.8023,30120,30120,1,Bartow,Cartersville,Georgia,Georgia,GA,South,South Atlantic,861,FigureofYouth,135,2,1347800452
+98.230.177.83,United States,Atlanta,Georgia,33.9669,-84.3249,30338,30338,2,DeKalb,Atlanta,Georgia,Georgia,GA,South,South Atlantic,1080,Ace High,30,5,1350059764
+98.230.177.83,United States,Atlanta,Georgia,33.9669,-84.3249,30338,30338,2,DeKalb,Atlanta,Georgia,Georgia,GA,South,South Atlantic,3498,Citizens For Equality,39,0,1361837498
+98.230.177.83,United States,Atlanta,Georgia,33.9669,-84.3249,30338,30338,2,DeKalb,Atlanta,Georgia,Georgia,GA,South,South Atlantic,1080,Ace High,30,5,1350059764
+98.230.177.83,United States,Atlanta,Georgia,33.9669,-84.3249,30338,30338,2,DeKalb,Atlanta,Georgia,Georgia,GA,South,South Atlantic,3498,Citizens For Equality,39,0,1361837498
+108.220.126.125,United States,Flowery Branch,Georgia,34.1851,-83.9252,30542,30542,1,Hall,Flowery Branch,Georgia,Georgia,GA,South,South Atlantic,6208,In Hoc Signo Vinces,139,3,1376662778
+65.12.171.95,United States,Cumming,Georgia,34.2073,-84.1402,30040,30040,3,Forsyth,Cumming,Georgia,Georgia,GA,South,South Atlantic,7588,Haken_Kreuz,34,0,1394905335
+65.12.171.95,United States,Cumming,Georgia,34.2073,-84.1402,30040,30040,3,Forsyth,Cumming,Georgia,Georgia,GA,South,South Atlantic,9109,Queen,26,1,1421104109
+65.12.171.95,United States,Cumming,Georgia,34.2073,-84.1402,30040,30040,3,Forsyth,Cumming,Georgia,Georgia,GA,South,South Atlantic,9571,Moorish Fascist,2950,31,1438115289
+65.12.171.95,United States,Cumming,Georgia,34.2073,-84.1402,30040,30040,3,Forsyth,Cumming,Georgia,Georgia,GA,South,South Atlantic,7588,Haken_Kreuz,34,0,1394905335
+65.12.171.95,United States,Cumming,Georgia,34.2073,-84.1402,30040,30040,3,Forsyth,Cumming,Georgia,Georgia,GA,South,South Atlantic,9109,Queen,26,1,1421104109
+65.12.171.95,United States,Cumming,Georgia,34.2073,-84.1402,30040,30040,3,Forsyth,Cumming,Georgia,Georgia,GA,South,South Atlantic,9571,Moorish Fascist,2950,31,1438115289
+65.12.171.95,United States,Cumming,Georgia,34.2073,-84.1402,30040,30040,3,Forsyth,Cumming,Georgia,Georgia,GA,South,South Atlantic,7588,Haken_Kreuz,34,0,1394905335
+65.12.171.95,United States,Cumming,Georgia,34.2073,-84.1402,30040,30040,3,Forsyth,Cumming,Georgia,Georgia,GA,South,South Atlantic,9109,Queen,26,1,1421104109
+65.12.171.95,United States,Cumming,Georgia,34.2073,-84.1402,30040,30040,3,Forsyth,Cumming,Georgia,Georgia,GA,South,South Atlantic,9571,Moorish Fascist,2950,31,1438115289
+96.32.137.28,United States,Athens,Georgia,33.9461,-83.418,30606,30606,1,Clarke,Athens,Georgia,Georgia,GA,South,South Atlantic,13521,Fascist Polymath,6,0,1475627632
+208.99.105.155,United States,Ringgold,Georgia,34.9159,-85.1091,30736,30736,1,Catoosa,Ringgold,Georgia,Georgia,GA,South,South Atlantic,13783,Valfar,3,0,1482480139
+47.32.90.245,United States,Sugar Hill,Georgia,34.1065,-84.0335,30518,30518,1,Gwinnett,Buford,Georgia,Georgia,GA,South,South Atlantic,14116,Aodh Mor Macraynall,11,0,1488335852
+172.98.84.196,United States,Atlanta,Georgia,33.7525,-84.3888,30303,30303,1,Fulton,Atlanta,Georgia,Georgia,GA,South,South Atlantic,14424,Mister_Sheckel,19,1,1494107885
+67.140.199.88,United States,Toccoa,Georgia,34.5773,-83.3324,30577,30577,1,Stephens,Toccoa,Georgia,Georgia,GA,South,South Atlantic,14610,Lorgar,25,1,1497858132
+24.4.46.92,United States,Santa Maria,California,34.953,-120.4357,93454,93454,1,Santa Barbara,Santa Maria,California,California,CA,West,Pacific,368,Lord Haw Haw,125,6,1345076672
+24.7.65.31,United States,San Pablo,California,37.9622,-122.3455,94806,94806,1,Contra Costa,San Pablo,California,California,CA,West,Pacific,1014,Totalitariana,33,4,1349321625
+108.66.20.109,United States,Trowbridge,California,38.8115,-121.4982,95668,95668,1,Sutter,Pleasant Grove,California,California,CA,West,Pacific,3023,Сварг,15,3,1360375010
+24.176.186.50,United States,South Lake Tahoe,California,38.917,-119.9865,96150,96150,1,El Dorado,South Lake Tahoe,California,California,CA,West,Pacific,6120,ThatRainyDay,180,3,1369897678
+98.234.240.158,United States,Livermore,California,37.6819,-121.768,94550,94550,1,Alameda,Livermore,California,California,CA,West,Pacific,6274,Joe,229,14,1380960994
+74.118.32.5,United States,Anaheim,California,33.8359,-117.9086,92805,92805,1,Orange,Anaheim,California,California,CA,West,Pacific,7325,Lord Crow,5,1,1388705589
+192.241.218.131,United States,San Francisco,California,37.7309,-122.3886,94124,94124,1,San Francisco,San Francisco,California,California,CA,West,Pacific,7346,thecolonel,804,9,1389031318
+66.171.229.57,United States,Torrance,California,33.8359,-118.3406,90503,90503,1,Los Angeles,Torrance,California,California,CA,West,Pacific,7496,Social Nationalist,147,6,1392956825
+24.205.27.253,United States,Monterey Park,California,34.0534,-118.1271,91754,91754,1,Los Angeles,Monterey Park,California,California,CA,West,Pacific,7567,LINVS,32,0,1394254396
+207.233.84.11,United States,Fullerton,California,33.8873,-117.8946,92831,92831,2,Orange,Fullerton,California,California,CA,West,Pacific,8029,Patriot,6,0,1412094851
+207.233.84.11,United States,Fullerton,California,33.8873,-117.8946,92831,92831,2,Orange,Fullerton,California,California,CA,West,Pacific,8104,Volkgenosse,1,0,1414514996
+207.233.84.11,United States,Fullerton,California,33.8873,-117.8946,92831,92831,2,Orange,Fullerton,California,California,CA,West,Pacific,8029,Patriot,6,0,1412094851
+207.233.84.11,United States,Fullerton,California,33.8873,-117.8946,92831,92831,2,Orange,Fullerton,California,California,CA,West,Pacific,8104,Volkgenosse,1,0,1414514996
+98.248.240.249,United States,Newark,California,37.5297,-122.0402,94560,94560,1,Alameda,Newark,California,California,CA,West,Pacific,9304,TheWeissewolfe,793,42,1426218300
+68.111.91.9,United States,San Clemente,California,33.427,-117.612,92672,92672,1,Orange,San Clemente,California,California,CA,West,Pacific,9621,Pho,373,12,1441816990
+75.54.22.115,United States,San Bruno,California,37.6305,-122.4111,94066,94066,1,San Mateo,San Bruno,California,California,CA,West,Pacific,9691,Sickness Unto Death,6,0,1444490192
+68.118.145.214,United States,Canoga Park,California,34.2011,-118.5981,91303,91303,1,Los Angeles,Canoga Park,California,California,CA,West,Pacific,13077,Attila,23,0,1464217786
+70.95.147.115,United States,San Diego,California,32.9555,-117.2252,92130,92130,1,San Diego,San Diego,California,California,CA,West,Pacific,13142,Hate-Particle Accelerator,4,0,1466382838
+104.5.117.88,United States,Rancho Santa Fe,California,33.0203,-117.2028,92067,92067,1,San Diego,Rancho Santa Fe,California,California,CA,West,Pacific,13190,Jordan,16,2,1467786363
+208.54.4.240,United States,San Francisco,California,37.7749,-122.4194,94103,94103,1,San Francisco,San Francisco,California,California,CA,West,Pacific,13196,Droog Life,8,1,1467938824
+23.27.245.59,United States,San Jose,California,37.3329,-121.8916,95113,95113,1,Santa Clara,San Jose,California,California,CA,West,Pacific,13243,D. Generate,15,1,1469022905
+107.185.95.33,United States,Costa Mesa,California,33.6801,-117.9085,92626,92626,1,Orange,Costa Mesa,California,California,CA,West,Pacific,13263,El_Cid,38,1,1469489024
+67.41.50.136,United States,Fort Irwin,California,35.2627,-116.6847,92310,92310,1,San Bernardino,Fort Irwin,California,California,CA,West,Pacific,13368,Panzerleiter,1,2,1472087977
+184.181.123.146,United States,San Pedro,California,33.7358,-118.2923,90731,90731,1,Los Angeles,San Pedro,California,California,CA,West,Pacific,13390,gotzil,7,2,1472664519
+68.8.38.141,United States,San Diego,California,32.7157,-117.1647,92101,92101,2,San Diego,San Diego,California,California,CA,West,Pacific,13396,Josef Kramer,9,1,1472878194
+23.122.137.254,United States,San Diego,California,32.7157,-117.1647,92101,92101,2,San Diego,San Diego,California,California,CA,West,Pacific,13428,NeoSvensk,12,0,1473576232
+70.95.14.121,United States,San Diego,California,32.8919,-117.2035,92121,92121,1,San Diego,San Diego,California,California,CA,West,Pacific,13431,GeneralFranco,24,4,1473644812
+172.58.16.128,United States,Irvine,California,33.6695,-117.8231,92612,92612,1,Orange,Irvine,California,California,CA,West,Pacific,13463,ginger hitler,16,1,1474143336
+99.196.200.97,United States,Carlsbad,California,33.1072,-117.2943,92011,92011,1,San Diego,Carlsbad,California,California,CA,West,Pacific,13562,Spiess,34,0,1476674443
+104.32.22.9,United States,Ventura,California,34.2846,-119.2222,93003,93003,1,Ventura,Ventura,California,California,CA,West,Pacific,13626,Excellion IM,29,5,1478566652
+172.113.162.90,United States,Huntington Beach,California,33.6654,-117.9686,92646,92646,1,Orange,Huntington Beach,California,California,CA,West,Pacific,13635,Happers,20,1,1478747114
+66.249.84.221,United States,Mountain View,California,37.4056,-122.0775,94043,94043,1,Santa Clara,Mountain View,California,California,CA,West,Pacific,13643,Aussie Dude,30,2,1479121404
+71.9.78.204,United States,Riverside,California,33.9315,-117.4119,92504,92504,2,Riverside,Riverside,California,California,CA,West,Pacific,13913,AryanHarlequin,26,2,1485079193
+71.9.65.72,United States,Riverside,California,33.9315,-117.4119,92504,92504,2,Riverside,Riverside,California,California,CA,West,Pacific,13964,Ulysses,191,6,1485889027
+68.5.171.214,United States,Mission Viejo,California,33.6,-117.672,92691,92691,1,Orange,Mission Viejo,California,California,CA,West,Pacific,14127,Kam,15,1,1488414784
+69.4.142.61,United States,Roseville,California,38.7521,-121.288,95678,95678,1,Placer,Roseville,California,California,CA,West,Pacific,14201,Vex,459,14,1489914174
+104.220.41.93,United States,Walnut Creek,California,37.9063,-122.065,94596,94596,1,Contra Costa,Walnut Creek,California,California,CA,West,Pacific,14259,Malixan,19,1,1491192548
+68.181.207.219,United States,Los Angeles,California,33.7866,-118.2987,90089,90089,1,Los Angeles,Los Angeles,California,California,CA,West,Pacific,14312,AryanUnderground,28,0,1492049003
+198.8.80.65,United States,Los Angeles,California,34.0443,-118.2509,90014,90014,1,Los Angeles,Los Angeles,California,California,CA,West,Pacific,14399,Matthias,61,0,1493680547
+68.8.3.12,United States,El Cajon,California,32.7948,-116.9625,92020,92020,1,San Diego,El Cajon,California,California,CA,West,Pacific,14845,Black-Locus,11,1,1503339874
+141.101.88.197,United States,San Francisco,California,37.7621,-122.3971,94107,94107,3,San Francisco,San Francisco,California,California,CA,West,Pacific,15077,v8i8e,1,0,1508443315
+173.245.50.90,United States,San Francisco,California,37.7621,-122.3971,94107,94107,3,San Francisco,San Francisco,California,California,CA,West,Pacific,15132,Doomslayer,13,0,1509661421
+173.245.50.126,United States,San Francisco,California,37.7621,-122.3971,94107,94107,3,San Francisco,San Francisco,California,California,CA,West,Pacific,15206,Il Ticinese,0,0,1510805279
+204.197.236.192,United States,Fort Polk South,Louisiana,31.0511,-93.2158,71459,71459,1,Vernon,Fort Polk,Louisiana,Louisiana,LA,South,West South Central,663,jotunn,16,4,1346722699
+184.3.252.87,United States,Monroe,Louisiana,32.5286,-92.1061,71201,71201,2,Ouachita,Monroe,Louisiana,Louisiana,LA,South,West South Central,2288,Solidarität,136,8,1356481980
+67.234.148.33,United States,Monroe,Louisiana,32.5286,-92.1061,71201,71201,2,Ouachita,Monroe,Louisiana,Louisiana,LA,South,West South Central,14825,RightWingReactionary,6,0,1502901192
+174.64.17.159,United States,Baton Rouge,Louisiana,30.4433,-91.1875,70801,70801,1,East Baton Rouge,Baton Rouge,Louisiana,Louisiana,LA,South,West South Central,9876,Pelayo,301,5,1454547994
+71.15.44.40,United States,Slidell,Louisiana,30.2916,-89.8129,70460,70460,1,St. Tammany,Slidell,Louisiana,Louisiana,LA,South,West South Central,13781,UngernSternberg,3,0,1482458464
+217.26.255.205,United States,Bloomingdale,Illinois,41.9575,-88.0809,60108,60108,1,DuPage,Bloomingdale,Illinois,Illinois,IL,Midwest,East North Central,2392,gingertoast,761,0,1357577546
+24.13.227.219,United States,Winnetka,Illinois,42.1081,-87.7359,60093,60093,1,Cook,Winnetka,Illinois,Illinois,IL,Midwest,East North Central,7776,Punisher_14_88,25,5,1402098154
+104.176.70.251,United States,Wheaton,Illinois,41.8661,-88.107,60187,60187,1,DuPage,Wheaton,Illinois,Illinois,IL,Midwest,East North Central,9956,Hagan,3,2,1458239811
+24.14.97.101,United States,Saint Charles,Illinois,41.9142,-88.3087,60174,60174,1,Kane,Saint Charles,Illinois,Illinois,IL,Midwest,East North Central,12787,Perkunas,10,0,1461710086
+104.200.153.90,United States,Chicago,Illinois,41.8426,-87.6306,60616,60616,1,Cook,Chicago,Illinois,Illinois,IL,Midwest,East North Central,14075,GoyishSupreme,5,0,1487657752
+50.45.19.112,United States,Carbondale,Illinois,37.7273,-89.2168,62901,62901,3,Jackson,Carbondale,Illinois,Illinois,IL,Midwest,East North Central,14287,Apollocaust,12,1,1491616829
+50.40.218.64,United States,Carbondale,Illinois,37.7273,-89.2168,62901,62901,3,Jackson,Carbondale,Illinois,Illinois,IL,Midwest,East North Central,14322,axxiedark,11,1,1492325865
+173.87.222.50,United States,Carbondale,Illinois,37.7273,-89.2168,62901,62901,3,Jackson,Carbondale,Illinois,Illinois,IL,Midwest,East North Central,14877,RageEternal,21,1,1504069829
+173.23.233.176,United States,Gibson City,Illinois,40.4584,-88.3846,60936,60936,1,Ford,Gibson City,Illinois,Illinois,IL,Midwest,East North Central,14530,Coldsteel,1,0,1496336191
+98.222.200.60,United States,Wilmette,Illinois,42.0722,-87.7228,60091,60091,1,Cook,Wilmette,Illinois,Illinois,IL,Midwest,East North Central,14542,Join my discord server,318,38,1496539188
+50.103.197.146,United States,DeKalb,Illinois,41.9295,-88.7504,60115,60115,2,DeKalb,Dekalb,Illinois,Illinois,IL,Midwest,East North Central,14790,Abram,3,0,1502115987
+104.235.87.236,United States,DeKalb,Illinois,41.9295,-88.7504,60115,60115,2,DeKalb,Dekalb,Illinois,Illinois,IL,Midwest,East North Central,15033,Dr. Edge,2,0,1507360423
+50.138.234.255,United States,Mount Laurel,New Jersey,39.934,-74.891,8054,8054,14,Burlington,Mount Laurel,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,2457,Syke,0,1,1357923578
+73.31.70.9,United States,Mount Laurel,New Jersey,39.934,-74.891,8054,8054,14,Burlington,Mount Laurel,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,9787,PaleoConPrep,7,0,1450671737
+50.156.41.183,United States,Mount Laurel,New Jersey,39.934,-74.891,8054,8054,14,Burlington,Mount Laurel,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,9940,Redding,125,0,1457394797
+50.186.196.164,United States,Mount Laurel,New Jersey,39.934,-74.891,8054,8054,14,Burlington,Mount Laurel,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,10790,menefrego305,11,7,1459719682
+50.141.113.98,United States,Mount Laurel,New Jersey,39.934,-74.891,8054,8054,14,Burlington,Mount Laurel,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,12587,blackwill,34,1,1461453979
+50.172.122.120,United States,Mount Laurel,New Jersey,39.934,-74.891,8054,8054,14,Burlington,Mount Laurel,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,13378,BloodandHonor,24,1,1472342954
+50.137.48.103,United States,Mount Laurel,New Jersey,39.934,-74.891,8054,8054,14,Burlington,Mount Laurel,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,13452,Jimmy Marr,2,0,1473887488
+50.129.128.174,United States,Mount Laurel,New Jersey,39.934,-74.891,8054,8054,14,Burlington,Mount Laurel,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,13539,LightningPatriot,33,8,1476076061
+50.179.102.207,United States,Mount Laurel,New Jersey,39.934,-74.891,8054,8054,14,Burlington,Mount Laurel,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,13682,Ober,39,1,1479853525
+50.150.4.253,United States,Mount Laurel,New Jersey,39.934,-74.891,8054,8054,14,Burlington,Mount Laurel,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,13825,Calhoun,7,1,1483394857
+50.176.145.214,United States,Mount Laurel,New Jersey,39.934,-74.891,8054,8054,14,Burlington,Mount Laurel,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,14003,Clemson,7,0,1486631504
+50.155.42.155,United States,Mount Laurel,New Jersey,39.934,-74.891,8054,8054,14,Burlington,Mount Laurel,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,14152,Minuteman,3,0,1489028539
+50.155.42.155,United States,Mount Laurel,New Jersey,39.934,-74.891,8054,8054,14,Burlington,Mount Laurel,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,14182,Nationalewehr,1,0,1489540937
+50.155.42.155,United States,Mount Laurel,New Jersey,39.934,-74.891,8054,8054,14,Burlington,Mount Laurel,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,14152,Minuteman,3,0,1489028539
+50.155.42.155,United States,Mount Laurel,New Jersey,39.934,-74.891,8054,8054,14,Burlington,Mount Laurel,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,14182,Nationalewehr,1,0,1489540937
+50.170.178.39,United States,Mount Laurel,New Jersey,39.934,-74.891,8054,8054,14,Burlington,Mount Laurel,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,14291,Wehrwolf,51,5,1491671526
+69.122.255.230,United States,Englishtown,New Jersey,40.2973,-74.3582,7726,7726,3,Monmouth,Englishtown,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,4657,RevolutionsPerMinute,3,0,1363833602
+69.122.255.230,United States,Englishtown,New Jersey,40.2973,-74.3582,7726,7726,3,Monmouth,Englishtown,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,4720,AmericanNationalist76,50,0,1363915458
+69.122.255.230,United States,Englishtown,New Jersey,40.2973,-74.3582,7726,7726,3,Monmouth,Englishtown,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,6103,Lex Talionis,8,1,1368654892
+69.122.255.230,United States,Englishtown,New Jersey,40.2973,-74.3582,7726,7726,3,Monmouth,Englishtown,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,4657,RevolutionsPerMinute,3,0,1363833602
+69.122.255.230,United States,Englishtown,New Jersey,40.2973,-74.3582,7726,7726,3,Monmouth,Englishtown,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,4720,AmericanNationalist76,50,0,1363915458
+69.122.255.230,United States,Englishtown,New Jersey,40.2973,-74.3582,7726,7726,3,Monmouth,Englishtown,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,6103,Lex Talionis,8,1,1368654892
+69.122.255.230,United States,Englishtown,New Jersey,40.2973,-74.3582,7726,7726,3,Monmouth,Englishtown,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,4657,RevolutionsPerMinute,3,0,1363833602
+69.122.255.230,United States,Englishtown,New Jersey,40.2973,-74.3582,7726,7726,3,Monmouth,Englishtown,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,4720,AmericanNationalist76,50,0,1363915458
+69.122.255.230,United States,Englishtown,New Jersey,40.2973,-74.3582,7726,7726,3,Monmouth,Englishtown,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,6103,Lex Talionis,8,1,1368654892
+70.194.210.239,United States,Livingston,New Jersey,40.7959,-74.3149,7039,7039,7,Essex,Livingston,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,6258,schus04306,4,1,1379889475
+70.208.199.160,United States,Livingston,New Jersey,40.7959,-74.3149,7039,7039,7,Essex,Livingston,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,8454,Bil,5,3,1419044205
+70.196.141.59,United States,Livingston,New Jersey,40.7959,-74.3149,7039,7039,7,Essex,Livingston,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,9176,Glanton,220,0,1423177559
+70.193.142.59,United States,Livingston,New Jersey,40.7959,-74.3149,7039,7039,7,Essex,Livingston,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,13024,Úlfhédnar,6,3,1463061556
+70.215.8.197,United States,Livingston,New Jersey,40.7959,-74.3149,7039,7039,7,Essex,Livingston,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,13060,Specever,2,0,1463878660
+70.208.144.186,United States,Livingston,New Jersey,40.7959,-74.3149,7039,7039,7,Essex,Livingston,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,13202,OrderAbove,21,0,1468117196
+173.54.16.131,United States,Livingston,New Jersey,40.7959,-74.3149,7039,7039,7,Essex,Livingston,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,14092,DoubleDe1488,10,0,1487908251
+104.246.49.202,United States,Bayonne,New Jersey,40.6687,-74.1143,7002,7002,1,Hudson,Bayonne,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,10328,EuroPea_077,15,1,1459471781
+69.142.36.165,United States,Beach Haven,New Jersey,39.5593,-74.2432,8008,8008,1,Ocean,Beach Haven,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,11588,RestoreAmericanNationalist,113,7,1460498890
+174.30.16.88,United States,Garwood,New Jersey,40.6518,-74.3229,7027,7027,2,Union,Garwood,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,12524,Capitoline,640,2,1461376382
+170.72.36.115,United States,Garwood,New Jersey,40.6518,-74.3229,7027,7027,2,Union,Garwood,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,14068,Therealian,4,0,1487633295
+45.55.199.109,United States,Clifton,New Jersey,40.8344,-74.1377,7014,7014,2,Passaic,Clifton,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,13292,einherjar,11,5,1470122044
+45.55.174.182,United States,Clifton,New Jersey,40.8344,-74.1377,7014,7014,2,Passaic,Clifton,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,14983,Blake,3,0,1506193233
+148.75.91.64,United States,Randolph,New Jersey,40.8483,-74.5815,7869,7869,1,Morris,Randolph,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,13616,CreativityForever,29,2,1478313322
+24.190.62.167,United States,Fair Lawn,New Jersey,40.9404,-74.1318,7410,7410,1,Bergen,Fair Lawn,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,13861,The Captain,19,5,1484164996
+108.24.145.24,United States,Cherry Hill,New Jersey,39.9348,-75.0307,8002,8002,1,Camden,Cherry Hill,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,14045,yex,2,0,1487480260
+24.186.223.88,United States,Mahwah,New Jersey,41.0887,-74.1438,7495,7495,1,Bergen,Mahwah,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,14549,Vindexrising397,8,1,1496688774
+107.152.104.145,United States,Weehawken,New Jersey,40.7696,-74.0204,7086,7086,1,Hudson,Weehawken,New Jersey,New Jersey,NJ,Northeast,Middle Atlantic,14826,Johnny Rebel,8,1,1502905956
+24.117.207.111,United States,Grenada,Mississippi,33.7751,-89.8087,38901,38901,1,Grenada,Grenada,Mississippi,Mississippi,MS,South,East South Central,4151,RyanWreck,217,13,1363017033
+74.229.175.155,United States,Quitman,Mississippi,32.0401,-88.7281,39355,39355,1,Clarke,Quitman,Mississippi,Mississippi,MS,South,East South Central,9655,Prussian Glory,108,1,1442726879
+162.104.105.64,United States,Olive Branch,Mississippi,34.9618,-89.8295,38654,38654,1,DeSoto,Olive Branch,Mississippi,Mississippi,MS,South,East South Central,14172,StarkWhite,3,0,1489381895
+207.242.7.250,United States,Morton,Mississippi,32.3538,-89.6545,39117,39117,2,Scott,Morton,Mississippi,Mississippi,MS,South,East South Central,14214,Pavel Vasily,24,1,1490214420
+207.242.7.250,United States,Morton,Mississippi,32.3538,-89.6545,39117,39117,2,Scott,Morton,Mississippi,Mississippi,MS,South,East South Central,14237,Владимир Петренков,10,1,1490719616
+207.242.7.250,United States,Morton,Mississippi,32.3538,-89.6545,39117,39117,2,Scott,Morton,Mississippi,Mississippi,MS,South,East South Central,14214,Pavel Vasily,24,1,1490214420
+207.242.7.250,United States,Morton,Mississippi,32.3538,-89.6545,39117,39117,2,Scott,Morton,Mississippi,Mississippi,MS,South,East South Central,14237,Владимир Петренков,10,1,1490719616
+184.6.158.66,United States,Las Vegas,Nevada,36.1781,-115.3183,89144,89144,1,Clark,Las Vegas,Nevada,Nevada,NV,West,Mountain,6165,Brynhelde,93,8,1373230276
+98.122.50.38,United States,Irmo,South Carolina,34.086,-81.1831,29063,29063,1,Richland,Irmo,South Carolina,South Carolina,SC,South,South Atlantic,6190,RagnarRedbeard,85,2,1375643414
+23.247.155.5,United States,Charleston,South Carolina,32.7795,-79.9371,29401,29401,1,Charleston,Charleston,South Carolina,South Carolina,SC,South,South Atlantic,13595,Shatlak,9,1,1477638567
+184.3.106.143,United States,Greenwood,South Carolina,34.1954,-82.1618,29646,29646,1,Greenwood,Greenwood,South Carolina,South Carolina,SC,South,South Atlantic,14011,Cruce Vincimus,4,0,1486954915
+67.197.249.14,United States,Rock Hill,South Carolina,34.9249,-81.0251,29730,29730,2,York,Rock Hill,South Carolina,South Carolina,SC,South,South Atlantic,14503,Marou,15,0,1495847407
+67.197.97.163,United States,Rock Hill,South Carolina,34.9249,-81.0251,29730,29730,2,York,Rock Hill,South Carolina,South Carolina,SC,South,South Atlantic,14928,Nothing,5,0,1505255832
+66.8.252.143,United States,Honolulu,Hawaii,21.2887,-157.8006,96816,96816,1,Honolulu,Honolulu,Hawaii,Hawaii,HI,West,Pacific,6246,Reecedude21,0,0,1378982709
+198.237.16.78,United States,Roseburg,Oregon,43.2165,-123.3417,97470,97470,3,Douglas,Roseburg,Oregon,Oregon,OR,West,Pacific,6279,mordred,10,1,1381347972
+198.237.16.78,United States,Roseburg,Oregon,43.2165,-123.3417,97470,97470,3,Douglas,Roseburg,Oregon,Oregon,OR,West,Pacific,6297,goliath,13,2,1382737436
+198.237.16.78,United States,Roseburg,Oregon,43.2165,-123.3417,97470,97470,3,Douglas,Roseburg,Oregon,Oregon,OR,West,Pacific,6279,mordred,10,1,1381347972
+198.237.16.78,United States,Roseburg,Oregon,43.2165,-123.3417,97470,97470,3,Douglas,Roseburg,Oregon,Oregon,OR,West,Pacific,6297,goliath,13,2,1382737436
+198.237.16.79,United States,Roseburg,Oregon,43.2165,-123.3417,97470,97470,3,Douglas,Roseburg,Oregon,Oregon,OR,West,Pacific,7739,fenrir,14,1,1400520658
+68.116.126.28,United States,Medford,Oregon,42.2818,-122.9054,97501,97501,1,Jackson,Medford,Oregon,Oregon,OR,West,Pacific,9256,lastwhitecalifornian,153,2,1425258291
+100.42.168.50,United States,Winston,Oregon,43.1223,-123.4126,97496,97496,1,Douglas,Winston,Oregon,Oregon,OR,West,Pacific,13332,lord bueron,9,2,1471047730
+71.92.144.183,United States,The Dalles,Oregon,45.5946,-121.1787,97058,97058,1,Wasco,The Dalles,Oregon,Oregon,OR,West,Pacific,13471,Storm88,5,0,1474350131
+50.53.9.254,United States,Beaverton,Oregon,45.4505,-122.8652,97007,97007,2,Washington,Beaverton,Oregon,Oregon,OR,West,Pacific,13543,RoudolphTheRevelator,13,0,1476142874
+173.87.38.234,United States,Beaverton,Oregon,45.4505,-122.8652,97007,97007,2,Washington,Beaverton,Oregon,Oregon,OR,West,Pacific,14873,Immolate,3,1,1503973671
+216.186.29.234,United States,Everett,Washington,47.9017,-122.2472,98204,98204,1,Snohomish,Everett,Washington,Washington,WA,West,Pacific,7424,Bear,1100,51,1390922896
+98.95.228.129,United States,Seattle,Washington,47.5413,-122.3129,98108,98108,2,King,Seattle,Washington,Washington,WA,West,Pacific,8026,Frontiersman,80,3,1412025386
+98.90.165.250,United States,Seattle,Washington,47.5413,-122.3129,98108,98108,2,King,Seattle,Washington,Washington,WA,West,Pacific,14602,DeathToTheLeft,9,0,1497745983
+70.130.130.74,United States,Redmond,Washington,47.674,-122.1215,98052,98052,2,King,Redmond,Washington,Washington,WA,West,Pacific,9393,Blackshirt 13,1279,3,1428868388
+24.16.40.211,United States,Redmond,Washington,47.674,-122.1215,98052,98052,2,King,Redmond,Washington,Washington,WA,West,Pacific,14883,shawnruru,29,1,1504125293
+18.111.82.225,United States,Seattle,Washington,47.6339,-122.3476,98109,98109,2,King,Seattle,Washington,Washington,WA,West,Pacific,10133,rekse_,26,11,1459308881
+18.111.103.215,United States,Seattle,Washington,47.6339,-122.3476,98109,98109,2,King,Seattle,Washington,Washington,WA,West,Pacific,13735,schönundweiß,13,4,1480990203
+24.113.78.148,United States,Silverdale,Washington,47.6445,-122.6949,98383,98383,1,Kitsap,Silverdale,Washington,Washington,WA,West,Pacific,13311,TrueRebellionWA,19,2,1470604094
+199.212.86.49,United States,Seattle,Washington,47.4889,-122.3012,98168,98168,1,King,Seattle,Washington,Washington,WA,West,Pacific,14096,ned_kelly,13,0,1487946500
+71.95.123.118,United States,Kennewick,Washington,46.2112,-119.1372,99336,99336,1,Benton,Kennewick,Washington,Washington,WA,West,Pacific,14378,OvenEngineer,2,0,1493183191
+174.21.117.129,United States,Seattle,Washington,47.6488,-122.3964,98199,98199,1,King,Seattle,Washington,Washington,WA,West,Pacific,14923,Mithras,9,1,1505197370
+71.200.93.46,United States,Fenwick Island,Delaware,38.4623,-75.0513,19944,19944,1,Sussex,Fenwick Island,Delaware,Delaware,DE,South,South Atlantic,7719,Conquest,670,12,1399776786
+50.80.10.7,United States,Gulf Shores,Alabama,30.2717,-87.7589,36542,36542,1,Baldwin,Gulf Shores,Alabama,Alabama,AL,South,East South Central,8151,Heart of Iron,105,4,1415944560
+198.200.158.140,United States,Harvest,Alabama,34.8556,-86.7508,35749,35749,1,Madison,Harvest,Alabama,Alabama,AL,South,East South Central,8314,American Irish Potato Mix,2,0,1418663780
+74.254.156.178,United States,Demopolis,Alabama,32.5176,-87.8364,36732,36732,1,Marengo,Demopolis,Alabama,Alabama,AL,South,East South Central,14113,folgt der Tod,16,1,1488247017
+75.137.215.113,United States,Leeds,Alabama,33.5482,-86.5444,35094,35094,1,Shelby,Leeds,Alabama,Alabama,AL,South,East South Central,14874,Echo,5,2,1503979039
+71.219.220.101,United States,Colorado Springs,Colorado,39.0487,-104.814,80921,80921,1,El Paso,Colorado Springs,Colorado,Colorado,CO,West,Mountain,9217,Bucketoflemons,709,19,1424053375
+67.190.111.28,United States,Broomfield,Colorado,39.9205,-105.0867,80023,80023,1,Broomfield,Broomfield,Colorado,Colorado,CO,West,Mountain,13274,Spodershibe,18,0,1469890767
+69.35.216.61,United States,Germantown,Maryland,39.188,-77.2358,20876,20876,2,Montgomery,Germantown,Maryland,Maryland,MD,South,South Atlantic,9503,HermannTheGerman,1306,51,1432862324
+66.82.162.75,United States,Germantown,Maryland,39.188,-77.2358,20876,20876,2,Montgomery,Germantown,Maryland,Maryland,MD,South,South Atlantic,14300,Kill The Poor,781,18,1491853921
+173.73.205.89,United States,Aspen Hill,Maryland,39.0795,-77.073,20906,20906,1,Montgomery,Silver Spring,Maryland,Maryland,MD,South,South Atlantic,9830,Yyg,6,2,1451891028
+108.15.23.253,United States,Elkridge,Maryland,39.2126,-76.7136,21075,21075,1,Howard,Elkridge,Maryland,Maryland,MD,South,South Atlantic,13316,Generic User,1,0,1470697835
+205.215.244.122,United States,Baltimore,Maryland,39.2904,-76.6122,21201,21201,1,Baltimore,Baltimore,Maryland,Maryland,MD,South,South Atlantic,14355,22goy,2,1,1493008545
+66.87.80.124,United States,Arbutus,Maryland,39.2309,-76.6969,21227,21227,1,Baltimore,Halethorpe,Maryland,Maryland,MD,South,South Atlantic,14443,BlackBay,5,0,1494589952
+130.71.237.157,United States,Northfield,Minnesota,44.4583,-93.1616,55057,55057,1,Rice,Northfield,Minnesota,Minnesota,MN,Midwest,West North Central,10995,Negromancer,2,2,1459811957
+71.49.87.197,United States,Rogers,Minnesota,45.1889,-93.553,55374,55374,1,Hennepin,Rogers,Minnesota,Minnesota,MN,Midwest,West North Central,13879,John Smith,19,2,1484534764
+97.88.230.7,United States,Rochester,Minnesota,44.1078,-92.4053,55906,55906,1,Olmsted,Rochester,Minnesota,Minnesota,MN,Midwest,West North Central,14350,Anti-Anti-Antisemite,108,2,1492829926
+66.17.126.150,United States,Brookings,South Dakota,44.3114,-96.7984,57006,57006,1,Brookings,Brookings,South Dakota,South Dakota,SD,Midwest,West North Central,13023,Midwest_fascist,10,6,1463009723
+68.229.64.34,United States,East Greenwich,Rhode Island,41.6604,-71.4559,2818,2818,1,Kent,East Greenwich,Rhode Island,Rhode Island,RI,Northeast,New England,13110,Niezgoda,488,2,1465340689
+70.184.8.63,United States,Cumberland,Rhode Island,41.9668,-71.4328,2864,2864,1,Providence,Cumberland,Rhode Island,Rhode Island,RI,Northeast,New England,13144,jtlowe83,34,1,1466453082
+72.221.85.103,United States,Westerly,Rhode Island,41.3776,-71.8273,2891,2891,1,Washington,Westerly,Rhode Island,Rhode Island,RI,Northeast,New England,13227,Volksführer,1,0,1468713243
+184.183.114.72,United States,Hailey,Idaho,43.5196,-114.3153,83333,83333,1,Blaine,Hailey,Idaho,Idaho,ID,West,Mountain,13437,Trenhelm,115,1,1473698259
+208.98.163.19,United States,Challis,Idaho,44.5046,-114.2317,83226,83226,1,Custer,Challis,Idaho,Idaho,ID,West,Mountain,14731,im3421,9,1,1500756920
+69.144.180.213,United States,Kalispell,Montana,48.1958,-114.3129,59901,59901,1,Flathead,Kalispell,Montana,Montana,MT,West,Mountain,13459,Shovemintheoven,2,0,1473990925
+75.135.59.164,United States,Grand Island,Nebraska,40.9286,-98.3873,68803,68803,1,Hall,Grand Island,Nebraska,Nebraska,NE,Midwest,West North Central,13520,HastyWilliam,16,0,1475619341
+173.216.232.203,United States,Mountain Home,Arkansas,36.3312,-92.3753,72653,72653,1,Baxter,Mountain Home,Arkansas,Arkansas,AR,South,West South Central,13540,Fletcher,25,1,1476079951
+184.155.21.176,United States,Altus,Oklahoma,34.6484,-99.3205,73521,73521,1,Jackson,Altus,Oklahoma,Oklahoma,OK,South,West South Central,14048,SS116,1,0,1487501133
+74.195.248.8,United States,Stillwater,Oklahoma,36.1043,-97.0609,74074,74074,1,Payne,Stillwater,Oklahoma,Oklahoma,OK,South,West South Central,14548,Kristallnacht,17,5,1496687818
+72.95.95.50,United States,Orono,Maine,44.8831,-68.672,4473,4473,1,Penobscot,Orono,Maine,Maine,ME,Northeast,New England,14158,Helenius,5,0,1489122614
+24.151.212.246,United States,Manchester,Tennessee,35.4958,-86.0816,37355,37355,1,Coffee,Manchester,Tennessee,Tennessee,TN,South,East South Central,14241,Schutzwaffle,3,0,1490755634
+184.61.38.247,United States,La Vergne,Tennessee,36.0156,-86.5819,37086,37086,1,Rutherford,La Vergne,Tennessee,Tennessee,TN,South,East South Central,14417,Xarathustra,12,1,1493998623
+32.214.220.248,United States,Wallingford,Connecticut,41.457,-72.8232,6492,6492,1,New Haven,Wallingford,Connecticut,Connecticut,CT,Northeast,New England,14386,SpanishSturmfuhrer88,2,1,1493343315
+68.70.209.182,United States,Silver City,New Mexico,32.7701,-108.2803,88061,88061,1,Grant,Silver City,New Mexico,New Mexico,NM,West,Mountain,14796,Eoadle,21,2,1502268253
