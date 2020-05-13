@@ -1,6 +1,6 @@
 
 import pandas as pd
-url_1=('/Users/annikasquires/my_evidence.csv') #this is model data
+url_1=('my_evidence.csv') #this is model data
 df = pd.read_csv(url_1) # csv to pandas
 df = df[['tweet', 'Predicted Name', 'Predicted Confidence']] 
 
