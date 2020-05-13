@@ -1,36 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@asquires11 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-asquires11
-/
-heroku_dash_repository
-1
-00
- Code
- Issues 0
- Pull requests 0 Actions
- Projects 0
- Wiki
- Security 0
- Insights
- Settings
-heroku_dash_repository/app.py /
-@asquires11 asquires11 Update app.py
-d956acd 14 minutes ago
-464 lines (317 sloc)  14.3 KB
-  
-Code navigation is available!
-Navigate your code with ease. Click on function and method calls to jump to their definitions or references in the same repository. Learn more
 
 import pandas as pd
 url_1=('/Users/annikasquires/my_evidence.csv') #this is model data
