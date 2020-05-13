@@ -412,8 +412,7 @@ body = dbc.Container(
     fluid=True,
 )
                      
-                     
-
+    "start": "node server.js"
 
 app.layout = html.Div([navbar,body])
 
