@@ -413,7 +413,7 @@ body = dbc.Container(
 )
                      
     
-("start": "node server.js")
+#("start": "node server.js")
 
 app.layout = html.Div([navbar,body])
 
