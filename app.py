@@ -1,10 +1,10 @@
 
 import pandas as pd
 # let's get our file sources
-fo1 = open("my_evidence.csv",r+) #opens for reading
-fo2 = open("finalmydata.csv",r+) #opens for reading
-fo3 = open("export_dataframe_final.xlsx",r+)
-fo4 = open("final_export_combined.xlsx",r+)
+fo1 = open("my_evidence.csv") #opens for reading
+fo2 = open("finalmydata.csv") #opens for reading
+fo3 = open("export_dataframe_final.xlsx")
+fo4 = open("final_export_combined.xlsx")
 
 file1 = fo1.read()
 file2 = fo2.read()
