@@ -1,16 +1,23 @@
+####IMPORTS####
+import plotly.graph_objects as go
 import pandas as pd
+import dash
+import dash_bootstrap_components as dbc
+import dash_core_components as dcc
+import dash_html_components as html
+from dash_table.Format import Format
+import dash_table.FormatTemplate as FormatTemplate
+from dash.dependencies import Input, Output, State
+
+####END IMPORTS####
+
 # let's get our file sources
-#fo1 = open("my_evidence.csv") #opens for reading
-#fo2 = open("finalmydata.csv") #opens for reading
-#fo3 = open("export_dataframe_final.xlsx","rb")
-#fo4 = open("final_export_combined.csv")
+file1 = "my_evidence.csv" #this is model data
+file2 = "finalmydata.csv" 
+file3 = "export_dataframe_final.xlsx" 
+file4 = "final_export_combined.csv" 
 
-file1 = "my_evidence.csv" # fo1.read()
-file2 = "finalmydata.csv" # fo2.read()
-file3 = "export_dataframe_final.xlsx" # fo3.read()
-file4 = "final_export_combined.csv" # fo4.read()
-
-# We're not going to use this definition
+# We cannot pull from a url. plus, we already have my_evidence.csv local to our project. just use file1 variable that we created earlier
 # url_1=('https://github.com/asquires11/flying-dog-beers/blob/master/my_evidence.csv') #this is model data
 df = pd.read_csv(file1) # csv to pandas
 df = df[['tweet', 'Predicted Name', 'Predicted Confidence']] 
