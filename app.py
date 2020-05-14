@@ -1,14 +1,14 @@
 import pandas as pd
 # let's get our file sources
-fo1 = open("my_evidence.csv") #opens for reading
-fo2 = open("finalmydata.csv") #opens for reading
-fo3 = open("export_dataframe_final.xlsx","rb")
-fo4 = open("final_export_combined.csv")
+#fo1 = open("my_evidence.csv") #opens for reading
+#fo2 = open("finalmydata.csv") #opens for reading
+#fo3 = open("export_dataframe_final.xlsx","rb")
+#fo4 = open("final_export_combined.csv")
 
-file1 = fo1.read()
-file2 = fo2.read()
-file3 = fo3.read()
-file4 = fo4.read()
+file1 = "my_evidence.csv" # fo1.read()
+file2 = "finalmydata.csv" # fo2.read()
+file3 = "export_dataframe_final.xlsx" # fo3.read()
+file4 = "final_export_combined.csv" # fo4.read()
 
 # We're not going to use this definition
 # url_1=('https://github.com/asquires11/flying-dog-beers/blob/master/my_evidence.csv') #this is model data
