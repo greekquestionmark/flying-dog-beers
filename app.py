@@ -340,11 +340,11 @@ column_44 = [
 ]
 
 
-#column_5=[
+column_5=[
     #html.H1('My first app with folium map'),
     #html.Iframe(id='graph', srcDoc=open('/Users/annikasquires/Desktop/Desktop - Annika’s MacBook Pro/Beck Hacking/test_world_map.html', 'r').read(), width='100%', height='500', style={'paper_bgcolor':'rgba(0,0,0,0)','plot_bgcolor':'Primary'})
     #html.Button(id='map-submit-button', n_clicks=0, children='Submit')
-#]
+]
 
 ##navbar = dbc.NavbarSimple(
    
