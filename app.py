@@ -1,6 +1,6 @@
 ####IMPORTS####
-import plotly.graph_objects as go
 import pandas as pd
+import plotly.graph_objects as go
 import dash
 import dash_bootstrap_components as dbc
 import dash_core_components as dcc
@@ -39,8 +39,6 @@ url_6=url_5[['tweet','Predicted Name','Predicted Confidence','msg_date','name','
 
 url_6=url_6.rename(columns={'tweet':'Post','Predicted Name':'Predicted Topic','msg_date':'Date','name':'Member','state_name':'State'})
 
-
-import plotly.graph_objects as go
 mapbox_access_token = 'pk.eyJ1Ijoic3F1aXJlc2EiLCJhIjoiY2s5dndvcjVzMDAyNDNkb2U0aGpmNzFxdSJ9.nVR1tUP7zQvtamST9ISryQ'
 
 
@@ -111,10 +109,6 @@ fig.update_layout(
     )
 )
     
-import plotly.graph_objects as go
-
-import pandas as pd
-
 s_2 = url_5['msg_date'].value_counts() ## Counts the occurrence of unqiue elements and stores in a variable called "s" which is series type
 new_2 = pd.DataFrame({'FuncGroup':s_2.index, 'Count':s_2.values})
 
@@ -203,14 +197,6 @@ navbar = dbc.NavbarSimple(
 #     layout
 #
 ######################################
-
-import dash
-import dash_bootstrap_components as dbc
-import dash_core_components as dcc
-import dash_html_components as html
-from dash_table.Format import Format
-import dash_table.FormatTemplate as FormatTemplate
-from dash.dependencies import Input, Output, State
     
 h_style = {
     "display": "flex",
