@@ -1,23 +1,37 @@
 
 import pandas as pd
-url_1=('https://github.com/asquires11/flying-dog-beers/blob/master/my_evidence.csv') #this is model data
-df = pd.read_csv(url_1) # csv to pandas
+# let's get our file sources
+fo1 = open("my_evidence.csv",r+) #opens for reading
+fo2 = open("finalmydata.csv",r+) #opens for reading
+fo3 = open("export_dataframe_final.xlsx",r+)
+fo4 = open("final_export_combined.xlsx",r+)
+
+file1 = fo1.read()
+file2 = fo2.read()
+file3 = fo3.read()
+file4 = fo4.read()
+
+# We're not going to use this definition
+# url_1=('https://github.com/asquires11/flying-dog-beers/blob/master/my_evidence.csv') #this is model data
+df = pd.read_csv(file1) # csv to pandas
 df = df[['tweet', 'Predicted Name', 'Predicted Confidence']] 
 
 PAGE_SIZE=10
+           
+# We're not going to use this definition
+# df_2=('https://github.com/asquires11/flying-dog-beers/blob/master/finalmydata.csv')# this is location data for members AND has number of members per county
 
-df_2=('https://github.com/asquires11/flying-dog-beers/blob/master/finalmydata.csv')# this is location data for members AND has number of members per county
-df_2=pd.read_csv(df_2)
+df_2=pd.read_csv(file2)
 
 
-url_4='https://github.com/asquires11/flying-dog-beers/blob/master/export_dataframe_final.xlsx'
-url_4=pd.read_excel(url_4) #this is full data with locations and messages
+# url_4='https://github.com/asquires11/flying-dog-beers/blob/master/export_dataframe_final.xlsx'
+url_4=pd.read_excel(file3) #this is full data with locations and messages
 
 url_5=df.merge(url_4, left_on='tweet', right_on='msg_post') #merge of model and location etc
 
 
 
-url_5.to_csv('https://github.com/asquires11/flying-dog-beers/blob/master/final_export_combined.csv')
+url_5.to_csv('final_export_combined.csv')
 
 url_6=url_5[['tweet','Predicted Name','Predicted Confidence','msg_date','name','city',"state_name"]]
 
