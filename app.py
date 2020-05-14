@@ -1,4 +1,3 @@
-
 import pandas as pd
 # let's get our file sources
 fo1 = open("my_evidence.csv") #opens for reading
@@ -14,7 +13,7 @@ file4 = fo4.read()
 # We're not going to use this definition
 # url_1=('https://github.com/asquires11/flying-dog-beers/blob/master/my_evidence.csv') #this is model data
 df = pd.read_csv(file1) # csv to pandas
-df = df[['tweet', 'Predicted Name', 'Predicted Confidence']] 
+df = df[['tweet', 'Predicted_Name', 'Predicted_Confidence']] 
 
 PAGE_SIZE=10
            
@@ -29,9 +28,9 @@ url_4=pd.read_excel(file3) #this is full data with locations and messages
 
 url_5=pd.read_csv(file4)
 
-url_6=url_5[['tweet','Predicted Name','Predicted Confidence','msg_date','name','city',"state_name"]]
+url_6=url_5[['tweet','Predicted_Name','Predicted_Confidence','msg_date','name','city',"state_name"]]
 
-url_6=url_6.rename(columns={'tweet':'Post','Predicted Name':'Predicted Topic','msg_date':'Date','name':'Member','state_name':'State'})
+url_6=url_6.rename(columns={'tweet':'Post','Predicted_Name':'Predicted Topic','msg_date':'Date','name':'Member','state_name':'State'})
 
 
 import plotly.graph_objects as go
@@ -156,7 +155,7 @@ navbar = dbc.NavbarSimple(
                         ]),
                         html.H1('The Text Process'),
                         html.Div([
-                        html.P('My main goal for the data was to perform textual analysis through NLP (Natural Language Processing). To do this I cleaned my datasets in both R and Python. In R I used Ken Benoit’s package quanteda as well as tidy text to clean,  and tokenize the forum posts. I created a corpus and dtm (document term matrix) which then allowed me to start doing some analysis. In Python my goal was to create a model to predict the topic of each message post from a potential list of 6 topics:  origin, disability, other, gender, sexual orientation, religion. This was an incredibly difficult process using multiple datasets and weeks of coding. As I did not have coders readily available to use as a train set I had to find a previously coded set of twitter hate speech data. I created a dataset combining the iron march and the coded data, which was the split into a train and test corpus using sk.learn. The train corpus was made up of 4,977 hate tweets, the test corpus had 2,452. I subsequently created a bag of words model vectorizing the text of each corpus. I then ran both the test and train data through 5 different models: Naive Bayes,Logistic Regression, Support Vector Machines SVM with Stochastic Gradient Descent, Random Forest and Gradient Boosting to see which would give the most accurate classifications. After this first round I trained the datasets using Gensim word2vec to generate document level embeddings as up until this point only vocabulary embeddings had been analyzed. I then tuned each model to evaluate which would provide the most accurate results. While none of the models were incredibly accurate ,(due to the improvising in manual coding rather than training and testing from only the Iron March dataset) my tuning of the Logistic Regression model returned the highest test accuracy. I then used the LR model to predict the topic of each Iron March message. The predicted topics as well as predicted confidence level  can be seen in the data table.')
+                        html.P('My main goal for the data was to perform textual analysis through NLP (Natural Language Processing). To do this I cleaned my datasets in both R and Python. In R I used Ken Benoit’s package quanteda as well as tidy text to clean,  and tokenize the forum posts. I created a corpus and dtm (document term matrix) which then allowed me to start doing some analysis. In Python my goal was to create a model to predict the topic of each message post from a potential list of 6 topics:  origin, disability, other, gender, sexual orientation, religion. This was an incredibly difficult process using multiple datasets and weeks of coding. As I did not have coders readily available to use as a train set I had to find a previously coded set of twitter hate speech data. I created a dataset combining the iron march and the coded data, which was the split into a train and test corpus using sk.learn. The train corpus was made up of 4,977 hate tweets, the test corpus had 2,452. I subsequently created a bag of words model vectorizing the text of each corpus. I then ran both the test and train data through 5 different models: Naive Bayes,Logistic Regression, Support Vector Machines SVM with Stochastic Gradient Descent, Random Forest and Gradient Boosting to see which would give the most accurate classifications. After this first round I trained the datasets using Gensim word2vec to generate document level embeddings as up until this point only vocabulary embeddings had been analyzed. I then tuned each model to evaluate which would provide the most accurate results. While none of the models were incredibly accurate ,(due to the improvising in manual coding rather than training and testing from only the Iron March dataset) my tuning of the Logistic Regression model returned the highest test accuracy. I then used the LR model to predict the topic of each Iron March message. The predicted topics as well as Predicted_Confidence level  can be seen in the data table.')
                         ])
                         
                         
