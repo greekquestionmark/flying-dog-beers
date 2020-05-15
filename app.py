@@ -227,7 +227,7 @@ def generate_table(dataframe, max_rows=10):
 app = dash.Dash(external_stylesheets=[dbc.themes.SLATE
 ])
 
-
+server = app.server
 
 column_1 = dbc.Card(
     dbc.CardBody(
@@ -413,8 +413,8 @@ body = dbc.Container(
     
 #("start": "node server.js")
 
-app.layout = html.Div([navbar,body])
 
+app.layout = html.Div([navbar,body])
 
 @app.callback(
     dash.dependencies.Output('table-container', 'children'),
@@ -453,6 +453,5 @@ def toggle_modal(n1, n2, is_open):
         return not is_open
     return is_open
 
-
 if __name__ == '__main__':
-    app.run_server(host='127.0.0.1',debug=False)
+    app.run_server(debug=True)
