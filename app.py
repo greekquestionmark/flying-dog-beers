@@ -1,18 +1,27 @@
-####IMPORTS####
+# Import required libraries
 import os
+from random import randint
 import pandas as pd
+	
+import plotly.plotly as py
+from plotly.graph_objs import * as go
+
+import flask
 import dash
-import plotly.graph_objects as go
-import dash_bootstrap_components as dbc
+from dash.dependencies import Input, Output, State, Event
 import dash_core_components as dcc
 import dash_html_components as html
-from dash_table.Format import Format
-import dash_table.FormatTemplate as FormatTemplate
-from dash.dependencies import Input, Output, State
 
-####END IMPORTS####
 
-# let's get our file sources
+
+# Setup the app
+# Make sure not to change this file name or the variable names below,
+# the template is configured to execute 'server' on 'app.py'
+server = flask.Flask(__name__)
+server.secret_key = os.environ.get('secret_key', str(randint(0, 1000000)))
+app = dash.Dash(__name__, server=server)
+
+
 file1 = "my_evidence.csv" #this is model data
 file2 = "finalmydata.csv" 
 file3 = "export_dataframe_final.xlsx" 
@@ -46,7 +55,7 @@ mapbox_access_token = 'pk.eyJ1Ijoic3F1aXJlc2EiLCJhIjoiY2s5dndvcjVzMDAyNDNkb2U0aG
 url_5= url_5.rename(columns={"postal num":'postal'})
 
 
-url_5postal=url_5['postal']
+
 fig = go.Figure(go.Scattermapbox(
     
         lat=url_5['lat'],
@@ -133,14 +142,14 @@ fig_2.update_layout( margin=dict(t=0, b=0, l=0, r=0),
     )
 
 #fig_2.show()  
-navbar = dbc.NavbarSimple(
+navbar = dcc.NavbarSimple(
        children=
         [
-        dbc.Button("About",id="open",size='small',color='secondry'),#,size='small'),
-        dbc.Modal(
+        dcc.Button("About",id="open",size='small',color='secondry'),#,size='small'),
+        dcc.Modal(
             [
-                dbc.ModalHeader('About'),
-                dbc.ModalBody(html.Div([
+                dcc.ModalHeader('About'),
+                dcc.ModalBody(html.Div([
                         html.H1("About Iron March"),
                         html.Div([
                         ###html.P('Dash converts Python classes into HTML'),
@@ -162,8 +171,8 @@ navbar = dbc.NavbarSimple(
                         
                         
 ])),
-                dbc.ModalFooter(
-                    dbc.Button("Close", id="close", className="ml-auto",color='secondary')
+                dcc.ModalFooter(
+                    dcc.Button("Close", id="close", className="ml-auto",color='secondary')
                 ),
             ],
             id="modal",
@@ -210,7 +219,7 @@ h_style = {
 mgrs = sorted(url_6['city'].unique())
 
 def generate_table(dataframe, max_rows=10):
-    return dbc.Table(
+    return dcc.Table(
         # Header
         [html.Tr([html.Th(col) for col in dataframe.columns])] +
 
@@ -222,15 +231,8 @@ def generate_table(dataframe, max_rows=10):
         
         
     )
-
-
-app = dash.Dash(external_stylesheets=[dbc.themes.SLATE
-])
-
-server = app.server
-
-column_1 = dbc.Card(
-    dbc.CardBody(
+column_1 = dcc.Card(
+    dcc.CardBody(
     [
     html.H4("Time Series"),
     dcc.Graph(figure=fig,style={'width':'100%','height': 500,'backgroundColor':'Primary'}),
@@ -241,12 +243,12 @@ column_1 = dbc.Card(
     
 )
 
-column_23 = dbc.Card( 
+column_23 = dcc.Card( 
     
-    dbc.CardBody(
+    dcc.CardBody(
         [ 
            html.H4("US Member Locations"),
-    #dbc.CardHeader("US Member Locations"),
+    #dcc.CardHeader("US Member Locations"),
             dcc.Graph(id='first',      
                 animate=True,
                 figure=fig,style={'width':'100%','height': 500,'backgroundColor':'Primary'},
@@ -263,7 +265,7 @@ column_23 = dbc.Card(
 
 column_2 = [
    # html.H4("US Member Locations"),
-    dbc.CardHeader("US Member Locations"),
+    dcc.CardHeader("US Member Locations"),
     dcc.Graph(id='first',      
         animate=True,
         figure=fig,style={'width':'100%','height': 500,'backgroundColor':'Primary'},
@@ -277,10 +279,10 @@ column_2 = [
 
 column_3=html.Div([
     html.Hr(),
-    dbc.Card(
-        #dbc.CardHeader(['Select a County to See the Data: ']),
+    dcc.Card(
+        #dcc.CardHeader(['Select a County to See the Data: ']),
         
-        dbc.CardBody([
+        dcc.CardBody([
             html.H5("Select a County to See the Data:", className="card-title"),
             dcc.Dropdown(
                 id='mgr-dropdown',
@@ -297,16 +299,16 @@ column_3=html.Div([
        
         ])),
     html.Hr(),
-    dbc.Card(
-        dbc.CardBody([
+    dcc.Card(
+        dcc.CardBody([
         html.Div(id='table-container',style={'backgroundColor':'Secondary'})
         ]))
    
 ]),
 
 
-column_4 = dbc.Card(
-    dbc.CardBody(
+column_4 = dcc.Card(
+    dcc.CardBody(
     [
     html.H4("Time Series"),
     dcc.Graph(figure=fig_2,style={'width':'100%','height': 500,'backgroundColor':'Primary'}),
@@ -333,15 +335,15 @@ column_5=[
     #html.Button(id='map-submit-button', n_clicks=0, children='Submit')
 ]
 
-##navbar = dbc.NavbarSimple(
+##navbar = dcc.NavbarSimple(
    
    # children=[
-     #   dbc.NavItem(dbc.NavLink("Page 1", href="#")),
-       # dbc.DropdownMenu(
+     #   dcc.NavItem(dcc.NavLink("Page 1", href="#")),
+       # dcc.DropdownMenu(
           #  children=[
-           #     dbc.DropdownMenuItem("More pages", header=True),
-               # dbc.DropdownMenuItem("Page 2", href="#"),
-               # dbc.DropdownMenuItem("Page 3", href="#"),
+           #     dcc.DropdownMenuItem("More pages", header=True),
+               # dcc.DropdownMenuItem("Page 2", href="#"),
+               # dcc.DropdownMenuItem("Page 3", href="#"),
            # ],
             #nav=True,
            # in_navbar=True,
@@ -360,20 +362,20 @@ column_5=[
 #)
 
 
-body = dbc.Container(
+body = dcc.Container(
     [  ## html.H1('Iron March Hack'),
      
         
         #html.Hr(),
-        dbc.Row(
+        dcc.Row(
             [html.Br(),
              
-                dbc.Col(column_4,md=6,className="my-4"),
+                dcc.Col(column_4,md=6,className="my-4"),
                 html.Br(),
                 #html.hr(),
-                dbc.Col(column_23,md=6,className="my-4"),
+                dcc.Col(column_23,md=6,className="my-4"),
                 #html.Br(),
-                #dbc.Col(column_2,md=3)
+                #dcc.Col(column_2,md=3)
             ],
             #no_gutters=True,
             align="start",
@@ -388,13 +390,13 @@ body = dbc.Container(
                         #"background": "#f2f5fa",}
         ),
      
-        dbc.Row(),
+        dcc.Row(),
         
-        dbc.Row(
+        dcc.Row(
         
             [
-                #CHANGIANGI THIS FROM DBC.COL TO DBC.TALBE and taking awayy md=12
-                dbc.Col(column_3),
+                #CHANGIANGI THIS FROM dcc.COL TO dcc.TALBE and taking awayy md=12
+                dcc.Col(column_3),
                 #dark=True,
                 ##hover=True),
                 #responsive=True),
@@ -409,49 +411,9 @@ body = dbc.Container(
    
     fluid=True,
 )
-                     
-    
-#("start": "node server.js")
-
 
 app.layout = html.Div([navbar,body])
 
-@app.callback(
-    dash.dependencies.Output('table-container', 'children'),
-    [dash.dependencies.Input('mgr-dropdown', 'value')])
-def gen_table(dropdown_value):
-    is_Manager = url_6['city']==dropdown_value
-    # Create dataframe of those rows only by passing in those booleans
-    dff = url_6[is_Manager] # dff as in dataframe filtered
-    return dbc.Table(
-    # Header
-    [html.Tr([html.Th(col) for col in dff.columns],className='table-dark')] +
-
-    # Body
-    [html.Tr([
-        html.Td(dff.iloc[i][col]) for col in dff.columns
-    ]) for i in range(min(len(dff), 20))
-     
-    ],
-        
-    #style={'backgroundColor':'rgb(70,70,70)',
-         # 'color':'white', 'fontFamily': ' Harmonica Sans',}
-                   
-    
-    )
-
-
-
-@app.callback(
-    Output("modal", "is_open"),
-    [Input("open", "n_clicks"), Input("close", "n_clicks")],
-    [State("modal", "is_open")],
-)
-
-def toggle_modal(n1, n2, is_open):
-    if n1 or n2:
-        return not is_open
-    return is_open
-
+# Run the Dash app
 if __name__ == '__main__':
     app.server.run(debug=True)
