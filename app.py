@@ -4,7 +4,7 @@ from random import randint
 import pandas as pd
 	
 import plotly.plotly as py
-from plotly.graph_objs import * as go
+from plotly.graph_objs import *
 
 import flask
 import dash
@@ -56,7 +56,7 @@ url_5= url_5.rename(columns={"postal num":'postal'})
 
 
 
-fig = go.Figure(go.Scattermapbox(
+fig = Figure(Scattermapbox(
     
         lat=url_5['lat'],
         lon=url_5['lon'],
@@ -65,7 +65,7 @@ fig = go.Figure(go.Scattermapbox(
         mode='markers', 
         #x=url_5['postal'],
         #colors='Reds',
-        marker=go.scattermapbox.Marker(
+        marker=scattermapbox.Marker(
             size=url_5['postal']*5,
             
             color='white'
@@ -109,7 +109,7 @@ fig.update_layout(
     mapbox=dict(
         accesstoken=mapbox_access_token,
         bearing=0,
-        center=go.layout.mapbox.Center(
+        center=layout.mapbox.Center(
             lat=38.822591,
             lon=-84.370789
         ),
@@ -124,15 +124,15 @@ new_2 = pd.DataFrame({'FuncGroup':s_2.index, 'Count':s_2.values})
 
 new_2=new_2.sort_values(by='FuncGroup') 
 
-fig_2=go.Figure()
-fig_2.add_trace(go.Scatter( x=new_2['FuncGroup'], y=new_2['Count'],
+fig_2=Figure()
+fig_2.add_trace(Scatter( x=new_2['FuncGroup'], y=new_2['Count'],
                          
                        
                         line=dict(color='grey',width=2))),
 
 
 
-#fig = go.Figure([go.Scatter( x=new_2['FuncGroup'], y=new_2['Count'])]),
+#fig = Figure([Scatter( x=new_2['FuncGroup'], y=new_2['Count'])]),
 
 fig_2.update_layout( margin=dict(t=0, b=0, l=0, r=0),
     hovermode='closest',
