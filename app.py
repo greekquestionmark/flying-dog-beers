@@ -12,52 +12,38 @@ from dash.dependencies import Input, Output, State, Event
 import dash_core_components as dcc
 import dash_html_components as html
 
-
-
 # Setup the app
 # Make sure not to change this file name or the variable names below,
 # the template is configured to execute 'server' on 'app.py'
 server = flask.Flask(__name__)
 server.secret_key = os.environ.get('secret_key', str(randint(0, 1000000)))
 app = dash.Dash(__name__, server=server)
-
-
 file1 = "my_evidence.csv" #this is model data
 file2 = "finalmydata.csv" 
 file3 = "export_dataframe_final.xlsx" 
 file4 = "final_export_combined.csv" 
-
 # We cannot pull from a url. plus, we already have my_evidence.csv local to our project. just use file1 variable that we created earlier
 # url_1=('https://github.com/asquires11/flying-dog-beers/blob/master/my_evidence.csv') #this is model data
 df = pd.read_csv(file1) # csv to pandas
 df = df[['tweet', 'Predicted Name', 'Predicted Confidence']] 
-
 PAGE_SIZE=10
-           
+
 # We're not going to use this definition
 # df_2=('https://github.com/asquires11/flying-dog-beers/blob/master/finalmydata.csv')# this is location data for members AND has number of members per county
 
 df_2=pd.read_csv(file2)
 
-
 # url_4='https://github.com/asquires11/flying-dog-beers/blob/master/export_dataframe_final.xlsx'
 url_4=pd.read_excel(file3) #this is full data with locations and messages
-
 url_5=pd.read_csv(file4)
-
 url_6=url_5[['tweet','Predicted Name','Predicted Confidence','msg_date','name','city',"state_name"]]
-
 url_6=url_6.rename(columns={'tweet':'Post','Predicted Name':'Predicted Topic','msg_date':'Date','name':'Member','state_name':'State'})
 
 mapbox_access_token = 'pk.eyJ1Ijoic3F1aXJlc2EiLCJhIjoiY2s5dndvcjVzMDAyNDNkb2U0aGpmNzFxdSJ9.nVR1tUP7zQvtamST9ISryQ'
 
-
 url_5= url_5.rename(columns={"postal num":'postal'})
 
-
-
-fig = Figure(Scattermapbox(
-    
+fig = Figure(Scattermapbox(    
         lat=url_5['lat'],
         lon=url_5['lon'],
         #color_continuous_scale=px.colors.cyclical.IceFire,
@@ -66,45 +52,21 @@ fig = Figure(Scattermapbox(
         #x=url_5['postal'],
         #colors='Reds',
         marker=scattermapbox.Marker(
-            size=url_5['postal']*5,
-            
+            size=url_5['postal']*5, 
             color='white'
         ),opacity=.3,
-    
         #fillcolor='yellow',
         text=(url_5['City']),
         #text=site_text,
         hoverinfo='text',
-        hovertemplate="<b>%{text}</b><br>",
+        hovertemplate="<b>%{text}</b><br>"
     ))
-
+	
 fig.update_layout(
-    
-    
-    
-    
-   ### title={
-       # 'text': "Iron March Member Locations US",
-       # 'y':0.9,
-       # 'x':0.5,
-       # 'xanchor': 'center',
-      #  'yanchor': 'top',},
-      #  font= dict(family='Georgia', 
-                 # color='#FFFEF2'),
-    
-   
-    
-                                
- 
-    
     hovermode='closest',
     paper_bgcolor='rgb(0,0,0,0)',
     plot_bgcolor='rgb(0,0,0,0)',
-    
-    
-   
     #autosize=True,
-    
     margin=dict(t=0, b=0, l=0, r=0),
     mapbox=dict(
         accesstoken=mapbox_access_token,
@@ -125,21 +87,15 @@ new_2 = pd.DataFrame({'FuncGroup':s_2.index, 'Count':s_2.values})
 new_2=new_2.sort_values(by='FuncGroup') 
 
 fig_2=Figure()
-fig_2.add_trace(Scatter( x=new_2['FuncGroup'], y=new_2['Count'],
-                         
-                       
-                        line=dict(color='grey',width=2))),
 
-
-
+fig_2.add_trace(Scatter( x=new_2['FuncGroup'], y=new_2['Count'], line=dict(color='grey',width=2)))
 #fig = Figure([Scatter( x=new_2['FuncGroup'], y=new_2['Count'])]),
 
 fig_2.update_layout( margin=dict(t=0, b=0, l=0, r=0),
     hovermode='closest',
     paper_bgcolor= '#323232',
-    plot_bgcolor='#323232',
-   
-    )
+    plot_bgcolor='#323232'
+	)
 
 #fig_2.show()  
 navbar = dcc.NavbarSimple(
@@ -154,7 +110,6 @@ navbar = dcc.NavbarSimple(
                         html.Div([
                         ###html.P('Dash converts Python classes into HTML'),
                         html.P('This dashboard presents an analysis of the Iron March data hack. Iron March was a white supremacist forum created in 2011 by Russian nationalist Alexander “Slavros” Mukhitdinov, the site closed without explanation in late 2017.  Following the sites closing,  the entire SQL database was dumped anonymously on Internet Archives. Iron March acted as a hub for Neo-Nazi’s and violent extremist. The website had approximately 1,200 users worldwide and was affiliated with at least nine different Neo-Nazi groups. One such group Atomwaffen Division  has been tied to three murders and a terror plot. ')
-                        
     ]),
                         html.H1('Location Processing' ),
                         html.Div([
@@ -167,9 +122,7 @@ navbar = dcc.NavbarSimple(
                         html.H1('The Text Process'),
                         html.Div([
                         html.P('My main goal for the data was to perform textual analysis through NLP (Natural Language Processing). To do this I cleaned my datasets in both R and Python. In R I used Ken Benoit’s package quanteda as well as tidy text to clean,  and tokenize the forum posts. I created a corpus and dtm (document term matrix) which then allowed me to start doing some analysis. In Python my goal was to create a model to predict the topic of each message post from a potential list of 6 topics:  origin, disability, other, gender, sexual orientation, religion. This was an incredibly difficult process using multiple datasets and weeks of coding. As I did not have coders readily available to use as a train set I had to find a previously coded set of twitter hate speech data. I created a dataset combining the iron march and the coded data, which was the split into a train and test corpus using sk.learn. The train corpus was made up of 4,977 hate tweets, the test corpus had 2,452. I subsequently created a bag of words model vectorizing the text of each corpus. I then ran both the test and train data through 5 different models: Naive Bayes,Logistic Regression, Support Vector Machines SVM with Stochastic Gradient Descent, Random Forest and Gradient Boosting to see which would give the most accurate classifications. After this first round I trained the datasets using Gensim word2vec to generate document level embeddings as up until this point only vocabulary embeddings had been analyzed. I then tuned each model to evaluate which would provide the most accurate results. While none of the models were incredibly accurate ,(due to the improvising in manual coding rather than training and testing from only the Iron March dataset) my tuning of the Logistic Regression model returned the highest test accuracy. I then used the LR model to predict the topic of each Iron March message. The predicted topics as well as Predicted Confidence level  can be seen in the data table.')
-                        ])
-                        
-                        
+                        ])              
 ])),
                 dcc.ModalFooter(
                     dcc.Button("Close", id="close", className="ml-auto",color='secondary')
@@ -194,12 +147,6 @@ navbar = dcc.NavbarSimple(
     className='navbar navbar-expand-lg navbar-dark bg-primary',
     fluid=True,
     #label=
-
-    
-            #no_gutters=True,
-   
-    
-   
 )
 
 #######################################
@@ -335,33 +282,6 @@ column_5=[
     #html.Button(id='map-submit-button', n_clicks=0, children='Submit')
 ]
 
-##navbar = dcc.NavbarSimple(
-   
-   # children=[
-     #   dcc.NavItem(dcc.NavLink("Page 1", href="#")),
-       # dcc.DropdownMenu(
-          #  children=[
-           #     dcc.DropdownMenuItem("More pages", header=True),
-               # dcc.DropdownMenuItem("Page 2", href="#"),
-               # dcc.DropdownMenuItem("Page 3", href="#"),
-           # ],
-            #nav=True,
-           # in_navbar=True,
-           #label="More",
-            #no_gutters=True,
-        
-            
-        #),
-   # ],
-    #brand="Iron March Hack",
-    #3brand_href="#",
-   # id="navbarColor02",
-    #color="primary",
-   # dark=True,
-    #no_gutters=True
-#)
-
-
 body = dcc.Container(
     [  ## html.H1('Iron March Hack'),
      
@@ -378,22 +298,10 @@ body = dcc.Container(
                 #dcc.Col(column_2,md=3)
             ],
             #no_gutters=True,
-            align="start",
-            
-            style={
-                       # "margin": "50px",
-                       # "display": "flex",
-                       # "flex-direction": "column",
-                        #"alignItems": "center",
-                        "justifyContent": "space-between",}
-                        #"border": "2px solid #C8D4E3",}
-                        #"background": "#f2f5fa",}
+            align="start"
         ),
-     
         dcc.Row(),
-        
         dcc.Row(
-        
             [
                 #CHANGIANGI THIS FROM dcc.COL TO dcc.TALBE and taking awayy md=12
                 dcc.Col(column_3),
@@ -406,12 +314,9 @@ body = dcc.Container(
         
         ),
       
-    ],
-   
-   
-    fluid=True,
+    ],  
+    fluid=True
 )
-
 app.layout = html.Div([navbar,body])
 
 # Run the Dash app
